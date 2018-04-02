@@ -1,3 +1,5 @@
+**EmoteCast no longer work right now.** It'll make a comeback
+
 # EmoteCast
 Discord and NightDev can't stop us from enjoying emotes! Simply follow these steps to effectively fuck Night:
 
