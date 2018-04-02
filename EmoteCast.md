@@ -1,4 +1,8 @@
-**EmoteCast no longer work right now.** It'll make a comeback
+**EmoteCast no longer work right now.** It'll make a comeback.
+
+If you spot this link on one of our listing page, please tell `The Double-Eyed Bus#6889` to remove it.
+
+<!--
 
 # EmoteCast
 Discord and NightDev can't stop us from enjoying emotes! Simply follow these steps to effectively fuck Night:
@@ -520,3 +524,5 @@ Ctrl+F to find emote. Last updated: Sept 16 2017
 | :BusThonk: | ![](https://cdn.discordapp.com/emojis/348857108776747010.png) |
 | :Discoin: | ![](https://cdn.discordapp.com/emojis/357656754642747403.png) |
 | :PyThonk: | ![](https://cdn.discordapp.com/emojis/357677346532098049.png) |
+
+-->
