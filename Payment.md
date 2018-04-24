@@ -11,7 +11,7 @@ You can type `>daily` every day to get 120 credits.
 You can type `>lottery <Number of entries>` to enter the lottery. The draw is at EDT/EST 00:00 AM everyday. Each entry cost 5 credits and the money goes into the jackpot.
 
 ### Checking your balance
-You can use `>balance` in any channel, even the channel doesn't have DTel service enabled. The server must have DTel installed.
+You can use `>balance` in any channel, even the channel doesn't have DTel service enabled. The server must have DTel added, though.
 
 ### I'm a developer and I want DiscordTel to accept payments from my bot!
 DiscordTel no longer set up individual integrations. Please consider [integrating with Discoin](http://discoin.gitbooks.io/docs).
@@ -21,4 +21,7 @@ DiscordTel no longer set up individual integrations. Please consider [integratin
 
 ## Using your balance
 ### Renew your number
-`>dial *233` or `>balance` in the channel that has DTel service enabled, then type the amount of months you want to renew for.
+`>dial *233` or `>balance` in the channel that has DTel service enabled, then type the amount of months you want to renew for. It costs 500 credits to extend a number by a month.
+
+### Send messages
+Each `>message` use costs you 2 credits.
