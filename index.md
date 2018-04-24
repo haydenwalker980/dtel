@@ -4,7 +4,7 @@
 
 ![yes](https://cdn.discordapp.com/attachments/393598647679582218/393956037637570560/DTel-chan.png)
 
-<small>Credit goes to [Tailzythefox1 / ❤\~Niko\~❤#6564](https://tailzythefox1.deviantart.com/)</small>
+<small>Credit goes to [Tailzythefox1](https://tailzythefox1.deviantart.com/)</small>
 
 Welcome to DiscordTel's documentation! Use the navigation bar on the left side of your screen to learn more about the bot.
 
