@@ -5,9 +5,9 @@
 - Messages when calling, for performing calls
 - Commands, for debugging (Daily\*)
 
-By inviting DiscordTel, you grant us permission on collecting these data. You also grant members of this server the permission to audit some of the said data (Marked with \*) in #bot-log of the DiscordTel HQ server.
+By inviting DiscordTel, you grant us permission on collecting these data. You also grant members of this server the permission to audit some of the said data (Marked with \*) in #bot-log of the DiscordTel HQ server, which is a public channel.
 
-2. Any @Customer Support or @Restaurant Worker will summon an invite and join your server whenever we deem necessary during customer support.
+2. Any @Customer Support will summon an invite and join your server whenever we deem necessary during customer support.
 
 If you believe it is not necessary to perform such actions, please contact me. It will be dealt with on a case-by-case basis.
 
