@@ -7,11 +7,11 @@ Staff commands should **only** be used in either the staff channel or in direct 
 The **only way** to become part of the Customer Support team is to fill out an application, located [here](https://discordtel.typeform.com/to/cR3ovo). Your application will put into the pool, but will only be looked at once a spot opens. The maximum amount of team members is currently **eighteen (18)**. It may take **weeks or months** for your application to be read. **Asking a staff member to read your application will result in an AUTOMATIC DENIAL.**
 
 ## Assigning a number
-1. Assume you picked up the 611 call. Go to #bot-log.
-2. Search for `281816105289515008`. Navigate to the latest result.
-3. Copy the opposite side's channel ID (For `between Channel A and Channel B`, copy `B`).
-4. Ask the client for their preferred number. Make sure it follows [these guidelines](http://discordtel.readthedocs.io/en/latest/Server%20Setup/#2-choose-a-number).
-5. Type in DM or in a staff channel (DO NOT TYPE IN #611 CHANNEL): `>assign <Channel_ID> <Preferred_Number>`.
+Usually, servers can get a number using `>wizard`. You may need to run `>assign <Channel_ID> <Number>` in these occasions:
+
+* Moving a number from a channel to another (Run **after** de-assigning the original one. Remember to compensate for paid monthly charge. If the number itself is expired, ask a boss to run eval to charge any outstanding balance first.)
+* Getting a second number for a server (If the server is big enough, boss approval required)
+* `0800` (Boss approval required)
 
 ## Deassigning a number
 `>deassign <Channel_ID> <Number>`. Use this command only if:
@@ -29,7 +29,7 @@ This gives you the JSON object of the number, which contains the number's *chann
 ![Example ninfo command](http://i.imgur.com/eQoVpIO.png)
 
 ## Adding credits
-RIP `>extend` command. You can now only ~~beg~~ ask Austin for credits, even it's for someone else.
+`>addcredit <User_id> <Credits>`
 
 ## Dealing with troll calls
 *Sometimes* people can be annoying and just try to have fun. That is the case with troll calls.
