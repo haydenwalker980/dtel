@@ -19,8 +19,8 @@ Usually, servers can get a number using `>wizard`. You may need to run `>assign 
 * The number is not callable;
 * The number is mistakenly assigned;
 * The owner requests for removal of their number;
-* The users of this number abuse the system (Contact austinhuang first);
-* The owner of the number wants it moved to another channel (Make sure you have the channel ID they want it moved to).
+* The users of this number abuse the system;
+* The owner of the number wants it moved to another channel (Make sure you have the channel ID they want it moved to, and also transfer the months they paid for by refunding them credits, which is \# months x500).
 
 ## Number info
 `>ninfo <Number>`
