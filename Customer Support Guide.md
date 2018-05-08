@@ -4,7 +4,7 @@ If you have any questions about commands that are **not** referenced here, you m
 Staff commands should **only** be used in either the staff channel or in direct messaging with the bot.
 
 ## How do I become a Customer Support?
-The **only way** to become part of the Customer Support team is to fill out an application, located [here](https://discordtel.typeform.com/to/cR3ovo). Your application will put into the pool, but will only be looked at once a spot opens. The maximum amount of team members is currently **eighteen (18)**. It may take **weeks or months** for your application to be read. **Asking a staff member to read your application will result in an AUTOMATIC DENIAL.**
+The **only way** to become part of the Customer Support team is to fill out an application, located [here](https://discordtel.typeform.com/to/cR3ovo). Your application will put into the pool, but will only be looked at once a spot opens. The maximum amount of team members is currently **the integer closest to (server count / 100)** (Excluding Manager or higher). It may take **weeks or months ~~or years~~** for your application to be read. **Asking a staff member to read your application will result in an AUTOMATIC DENIAL.**
 
 ## Assigning a number
 Usually, servers can get a number using `>wizard`. You may need to run `>assign <Channel_ID> <Number>` in these occasions:
@@ -24,9 +24,6 @@ Usually, servers can get a number using `>wizard`. You may need to run `>assign 
 
 ## Number info
 `>ninfo <Number>`
-This gives you the JSON object of the number, which contains the number's *channel ID* that it is assigned to, the number itself, and the expiration date (the year and month). You can use the channel ID and number to *assign* or *de-assign* a number.
-
-![Example ninfo command](http://i.imgur.com/eQoVpIO.png)
 
 ## Adding credits
 `>addcredit <User_id> <Credits>`
@@ -40,12 +37,9 @@ This gives you the JSON object of the number, which contains the number's *chann
 * Caller begins to say impolite/vulgar things to or about you - Troll Call
 * Caller who is reporting a troller - NOT a Troll Call
 
-If a troll call occurs, use the blacklist command on their user ID, in a format like this:
-
-`>blacklist <User ID>`
-You can get the User ID from #bot-logs (it's at the end of the line):
+If a troll call occurs, warn the user and give them a strike, in a format like this: `>strike <user id> <reason>`. If it still occurs, use the blacklist command on their user ID, in a format like this: `>blacklist <User ID>`. You can get the User ID from #bot-logs (it's at the end of the line):
 ![User ID](http://i.imgur.com/ntxEwAA.png)
 
-If you desire to **un-blacklist** someone, run the blacklist command *again* with the same user ID.
+If you want to **un-blacklist** someone, run the blacklist command *again* with the same user ID.
 
 For a quick reference to decide what is trolling and what is not trolling, you may refer to this Wikipedia article on [Internet trolling](https://en.wikipedia.org/wiki/Internet_troll).
