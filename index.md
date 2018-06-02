@@ -13,7 +13,7 @@ Welcome to DiscordTel's documentation! Use the navigation bar on the left side o
 If you’d like to ask a question, you may `>dial *611`, [join DiscordTel HQ](https://discord.gg/RN7pxrB), or [email us](mailto:discordtel@austinhuang.me)!
 
 ## Stats
-[![bfd](https://botsfordiscord.com/api/v1/bots/377609965554237453/embed.svg)](https://botsfordiscord.com/bot/377609965554237453) [![terminal](https://ls.terminal.ink/api/v1/bots/377609965554237453/embed.svg)](https://ls.terminal.ink/bot/377609965554237453)
+[![bfd](https://botsfordiscord.com/api/v1/bots/377609965554237453/embed.svg)](https://botsfordiscord.com/bot/377609965554237453)
 
 Also listed on [bots.discord.pw](https://bots.discord.pw/bots/377609965554237453) and [botlist.space](https://botlist.space/view/377609965554237453). Not discordbots.org.
 
