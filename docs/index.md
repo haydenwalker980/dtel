@@ -13,9 +13,9 @@ Welcome to DiscordTel's documentation! Use the navigation bar on the left side o
 If you’d like to ask a question, you may `>dial *611`, [join DiscordTel HQ](https://discord.gg/RN7pxrB), or [email us](mailto:discordtel@austinhuang.me)!
 
 ## Stats
-[![bfd](https://botsfordiscord.com/api/v1/bots/377609965554237453/embed.svg)](https://botsfordiscord.com/bot/377609965554237453) <img src="https://discordbotlist.com/bots/377609965554237453/widget.svg" width="300" />
+[![bfd](https://botsfordiscord.com/api/v1/bots/377609965554237453/embed.svg)](https://botsfordiscord.com/bot/377609965554237453) <img src="https://discordbotlist.com/bots/377609965554237453/widget.svg" height="150" />
 
-Also listed on [bots.discord.pw](https://bots.discord.pw/bots/377609965554237453), [botlist.space](https://botlist.space/view/377609965554237453) and [Listcord](https://listcord.com/bot/377609965554237453). Not discordbots.org <small>Tell them to unban me at the very least, "malicious intent" is totally unjustified<small>.
+Also listed on [bots.discord.pw](https://bots.discord.pw/bots/377609965554237453), [botlist.space](https://botlist.space/view/377609965554237453), [discordbots.group](https://discordbots.group/bot/377609965554237453), [discordbot.world](https://discordbot.world/bot/377609965554237453) and [Listcord](https://listcord.com/bot/377609965554237453). Not discordbots.org <small>Tell them to unban me at the very least, "malicious intent" is totally unjustified<small>.
 
 ## License
 The [Github repo with the source code](https://github.com/austinhuang0131/discordtel) can be found here, mainly for reviewing purposes. Rehosting this bot privately under Austin Huang's permission is allowed. Read the license [here](https://github.com/austinhuang0131/discordtel/blob/master/LICENSE).
