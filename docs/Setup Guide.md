@@ -1,4 +1,4 @@
-# Number setup guide
+# Setup guide
 This guide will assist newcomers in setting up DTel for their server!
 
 ## 1. Inviting the bot => Choosing its channel
