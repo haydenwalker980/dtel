@@ -8,7 +8,7 @@
 
 Welcome to DiscordTel's documentation! Use the navigation bar on the left side of your screen to learn more about the bot.
 
-**How do I set up DiscordTel for my own server?** Click [here](http://discordtel.readthedocs.io/en/latest/DiscordTel%20Guide/) to get started!
+**How do I set up DiscordTel for my own server?** Click [here](http://discordtel.readthedocs.io/en/latest/Setup%20Guide/) to get started!
 
 If you’d like to ask a question, you may `>dial *611`, [join DiscordTel HQ](https://discord.gg/RN7pxrB), or [email us](mailto:discordtel@austinhuang.me)!
 
