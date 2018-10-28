@@ -1,2 +1,5 @@
 theme:
-  name: 'bootstrap386'
+    name: readthedocs
+    highlightjs: true
+    hljs_languages:
+        - js
