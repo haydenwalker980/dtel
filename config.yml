@@ -1,1 +1,4 @@
 site_description: HERE COMES DAT COMMUNIST TELEPHONE BOT FOR DISCORD!!11!11!1
+theme:
+    name: Bootstrap386
+    highlightjs: true
