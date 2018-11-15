@@ -8,7 +8,7 @@ You can use `>balance` in any channel, even the channel doesn't have DTel servic
 Credits earned from [Discoin](http://discoin.sidetrip.xyz)-participating bots can be transferred to DiscordTel. See [here](https://discoin.gitbooks.io/docs/users-guide.html) for commands and more details. DiscordTel's currency code is `DTS`.
 
 ### Daily
-You can type `>daily` every day to get 120 credits.
+You can type `>daily` every day to get 80 credits.
 
 ### Lottery
 You can type `>lottery <Number of entries>` to enter the lottery. The draw is at EDT/EST 00:00 AM everyday. Each entry cost 5 credits and the money goes into the jackpot.
