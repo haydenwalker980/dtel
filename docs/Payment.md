@@ -36,7 +36,7 @@ DiscordTel no longer set up individual integrations. Please consider [integratin
 
 ## Using your balance
 ### Renew your number
-`>dial *233` or `>balance` in the channel that has DTel service enabled, then type the amount of months you want to renew for. It costs 500 credits to extend a number by a month.
+Type `>dial *233` in the channel that has DTel service enabled, then type the amount of months you want to renew for. It costs 500 credits to extend a number by a month.
 
-### Send messages
+### Send text messages to another number
 Each `>message` use costs you 2 credits.
