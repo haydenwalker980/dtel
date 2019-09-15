@@ -10,7 +10,7 @@ You can find information on how to donate [here][paymentLink]
 
 ##	Benefits
 
-*	**Disable number recognition**
+*	**Disable number recognition**<br/>
 	With a VIP number you have the ability to disable your number recognition.
 	This means that the other side will be unable to see your number and usernames.
 	Details (**Note:** not all) will also be hidden from our public logs.<br/><br/>
