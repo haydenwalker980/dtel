@@ -6,7 +6,7 @@ Please note: benefits and price are subject to changes. These will be announced 
 
 ## Current rate
 3 US Dollar = 1 VIP Month
-You can find information on how to donate [here](/docs/Donate)
+You can find information on how to donate [here](/docs/Donate.md)
 
 ##	Benefits
 
