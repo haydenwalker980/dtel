@@ -7,6 +7,7 @@ Wow! How nice to you! I accept several ways to donate:
 
 ## Current Donation Rate
 1 Canadian Dollar = 50,000 credits.
+3 US Dollar = 1 VIP Month
 
 ## Method 1
 
