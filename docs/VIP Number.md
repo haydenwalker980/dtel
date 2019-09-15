@@ -2,11 +2,11 @@
 
 DiscordTel's VIP plan works with so called 'VIP Months'. By using `>upgrade` you can transfer the VIP Months from your account to a number.
 
-Please note: benefits and price are subject to changes. These will be announced in our [server][serverInvite].
+Please note: benefits and price are subject to changes. These will be announced in our [server][https://discord.gg/qRVxY55].
 
 ## Current rate
 3 US Dollar = 1 VIP Month
-You can find information on how to donate [here](/docs/Donate.md)
+You can find information on how to donate [here][https://discordtel.austinhuang.me/en/latest/Payment/]
 
 ##	Benefits
 
@@ -33,4 +33,3 @@ You can find information on how to donate [here](/docs/Donate.md)
 
 	If your number would expire before the end of your VIP expiry, it will be extended to the same date as your VIP.
 	
-	[serverInvite]: https://discord.gg/qRVxY55
