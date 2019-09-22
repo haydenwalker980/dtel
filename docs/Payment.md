@@ -32,13 +32,17 @@ Votes to bots.onDiscord.xyz will not be counted as they don't have an API for vo
 DiscordTel no longer set up individual integrations. Please consider [integrating with Discoin](http://discoin.gitbooks.io/docs).
 
 ## Donation
-1 Canadian Dollar = 45,000 credits. 1 US Dollar = 60,000 credits. You can donate to one of the three maintainers:
+3 US Dollar = 180,000 credits = 1 [VIP](./VIP%20Number/) month. You can donate to one of the three maintainers:
 
-* Austin (Bus): https://austinhuang.me/donate (PP email `austinhuang0131@gmail.com`)
-* Mitchell: https://www.paypal.me/mdrademaker (PP email `mdrademaker19@gmail.com`)
-* Rhys (Sun): PP email `rhys0710@live.com`
+* Austin (Bus): https://austinhuang.me/donate (PayPal `austinhuang0131@gmail.com`)
+* Mitchell: https://www.paypal.me/mdrademaker (PayPal `mdrademaker19@gmail.com`)
+* Rhys (Sun): PayPal `rhys0710@live.com`
 
-Please include your username + discriminator.
+Please include your username + discriminator, and whether the donation is for credits or VIP months. If you forgot to do so, a copy of the email receipt is required for redemption. Note:
+
+* While credits can be purchased at units of 1000 credits, VIP months can be only purchased by whole months.
+* PayPal fees, if applicable, are deducted from the donation.
+* Other payment methods other than card/PayPal are available at a case-by-case basis. Please call `*611`.
 
 ## Using your balance
 ### Renew your number
