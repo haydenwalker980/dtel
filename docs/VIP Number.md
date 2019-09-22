@@ -24,5 +24,5 @@ You can find information on how to donate [here][paymentLink]
 *	**Number expiry**<br/>
 	If your number would expire before the end of your VIP expiry, it will be extended to the same date as your VIP.
 	
-[paymentLink]: https://discordtel.austinhuang.me/en/latest/Payment/
+[paymentLink]: https://discordtel.austinhuang.me/en/latest/Payment/#Donation
 [guildInvite]: https://discord.gg/qRVxY55
