@@ -11,14 +11,14 @@ Usually, servers can get a number using `>wizard`. You may need to run `>assign 
 
 * Moving a number from a channel to another (Run **after** de-assigning the original one. Remember to compensate for paid monthly charge. If the number itself is expired, ask a boss to run eval to charge any outstanding balance first.)
 * Getting a second number for a server (If the server is big enough, boss approval required)
-* `0800` (Boss approval required)
+* `0800` (Manager approval required) (Note: We're no longer selling them)
 
 ## Deassigning a number
 `>deassign <Number>`. Use this command only if:
 
 * The number is not callable;
 * The number is mistakenly assigned;
-* The owner requests for removal of their number;
+* The owner requests for removal of their number (Do `>permcheck <caller discord ID>`);
 * The users of this number abuse the system; (Blacklist their server/members first)
 * The owner of the number wants it moved to another channel (Make sure you have the channel ID they want it moved to, and also transfer the months they paid for by refunding them credits, which is \# months x500).
 
