@@ -25,6 +25,7 @@ You can vote for us on bot listings. For each vote, you will get 10 credits.
 | [DiscordBots.group](https://discordbots.group/bot/377609965554237453/vote) | Once every 24 hours |
 | [DiscordBots.org](https://discordbots.org/bot/377609965554237453/vote) | Once every 12 hours, 20 credits per vote on weekends |
 | [DiscordBot.world](https://discordbot.world/bot/377609965554237453) | Once per lifetime per account |
+| [DivineDiscordBots.com](https://divinediscordbots.com/bot/377609965554237453/vote) | Once every 24 hours |
 
 Votes to bots.onDiscord.xyz will not be counted as they don't have an API for votes.
 
