@@ -1,6 +1,6 @@
 # Discord Telephone System
 
-[![Get the bot](https://img.shields.io/badge/Discord-Get_The_Bot-7289DA.svg)](https://discordapp.com/oauth2/authorize?client_id=377609965554237453&scope=bot) [![Discord](https://img.shields.io/discord/281815661317980160.svg)](https://discord.gg/RN7pxrB) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/e43f2cd06bca428c8389c8f0378a85bc)](https://www.codacy.com/app/austinhuang0131/discordtel?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=austinhuang0131/discordtel&amp;utm_campaign=Badge_Grade)
+[![Get the bot](https://img.shields.io/badge/Discord-Get_The_Bot-7289DA.svg)](https://discordapp.com/oauth2/authorize?client_id=377609965554237453&scope=bot) [![Discord](https://img.shields.io/discord/281815661317980160.svg)](https://discord.gg/RN7pxrB) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/3a213a0237e54d99bd60aa9087eabbf5)](https://www.codacy.com/manual/Mitchell3514/discordtel?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=austinhuang0131/discordtel&amp;utm_campaign=Badge_Grade)
 
 ![yes](https://cdn.discordapp.com/attachments/393598647679582218/393956037637570560/DTel-chan.png)
 
