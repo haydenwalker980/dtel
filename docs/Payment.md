@@ -31,7 +31,7 @@ Votes to bots.onDiscord.xyz will not be counted as they don't have an API for vo
 DiscordTel no longer set up individual integrations. Please consider [integrating with Discoin](http://discoin.gitbooks.io/docs).
 
 ## Donation
-3 US Dollar = 180,000 credits = 1 [VIP](./VIP%20Number/) month. You can donate to one of the three maintainers:
+3 US Dollar = 1 [VIP](./VIP%20Number/) month. You can donate to one of the three maintainers:
 
 * Austin (Bus): [https://austinhuang.me/donate](https://austinhuang.me/donate) (PayPal `austinhuang0131@gmail.com`)
 * Mitchell: [https://www.paypal.me/mdrademaker](https://www.paypal.me/mdrademaker) (PayPal `mdrademaker19@gmail.com`)
@@ -39,9 +39,10 @@ DiscordTel no longer set up individual integrations. Please consider [integratin
 
 Please include your username + discriminator, and whether the donation is for credits or VIP months. If you forgot to do so, a copy of the email receipt is required for redemption. Note:
 
-* While credits can be purchased at units of 1000 credits, VIP months can be only purchased by whole months.
+* Must be purchased in increments of whole months.
 * PayPal fees, if applicable, are deducted from the donation.
 * Other payment methods (Robux, gift cards, cryptocurrencies, etc.) other than card/PayPal are available at a case-by-case basis. Please call `*611`.
+* Credits are no longer sold.
 
 ## Using your balance
 ### Renew your number
