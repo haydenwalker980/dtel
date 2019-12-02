@@ -5,7 +5,7 @@ You can use `>balance` in any channel, even the channel doesn't have DTel servic
 
 ## Earn some balance
 ### Transfer from Discoin system
-Credits earned from [Discoin](http://discoin.sidetrip.xyz)-participating bots can be transferred to DiscordTel. See [here](https://discoin.gitbooks.io/docs/users-guide.html) for commands and more details. DiscordTel's currency code is `DTS`.
+Credits earned from [Discoin](http://discoin.sidetrip.xyz)-participating bots can be transferred to DiscordTel. See [here](https://discoin.gitbook.io/docs/users-guide) for commands and more details. DiscordTel's currency code is `DTS`.
 
 ### Daily
 You can type `>daily` every day to get 80 credits.
@@ -28,7 +28,7 @@ You can vote for us on bot listings. For each vote, you will get 10 credits.
 Votes to bots.onDiscord.xyz will not be counted as they don't have an API for votes.
 
 ### I'm a developer and I want DiscordTel to accept payments from my bot!
-DiscordTel no longer set up individual integrations. Please consider [integrating with Discoin](http://discoin.gitbooks.io/docs).
+DiscordTel no longer set up individual integrations. Please consider [integrating with Discoin](http://discoin.gitbook.io/).
 
 ## Donation
 3 US Dollar = 1 [VIP](./VIP%20Number/) month. You can donate to one of the three maintainers:
