@@ -1,3 +1,6 @@
 site_name: DiscordTel
+site_url: https://discordtel.austinhuang.me
 theme:
   name: readthedocs
+nav:
+  - 'Customer Support Guide': csg.md
