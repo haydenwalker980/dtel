@@ -1,4 +1,4 @@
-#	VIP
+#	VIP Number
 
 DiscordTel's VIP plan works with so called 'VIP Months'. By using `>upgrade` you can transfer the VIP Months from your account to a number.
 
