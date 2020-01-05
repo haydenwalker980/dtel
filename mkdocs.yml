@@ -4,3 +4,7 @@ repo_url: https://github.com/austinhuang0131/discordtel
 edit_uri: blob/readthedocs/docs/
 theme:
   name: readthedocs
+nav:
+- Home: 'index.md'
+- User Guide:
+    - 'Setup': 'setup.md'
