@@ -1,4 +1,4 @@
-This is a list of numbers on `*411` yellowbook as of 21:27:54 15/01/2020 CEST. Any number that has a DTel command as a description is removed. This list is for information only and may not be updated.
+This is a list of numbers on `*411` yellowbook as of 21:27:54 15/01/2020 CEST, ordered by its number. Any entry that has a DTel command as a description is removed. This list is for information only and may not be updated in the future. For up-to-date information, do `>dial *411` then `1`.
 
 | Number      | Description |
 | ----------- | --- |
@@ -162,7 +162,7 @@ This is a list of numbers on `*411` yellowbook as of 21:27:54 15/01/2020 CEST. A
 | 03017877969 | grilled boob tastes like magical heaven. its milky and creamy on the inside with the balance of female hormones. i crave it every night. it has a thin grilled skin on the outside, not charred, but not undercooked. dont freeze it!! you can only eat it off the grill! burning your tongue while doing so enhances the sexually delicious milky consistancy. |
 | 03017878785 | THIS IS A FUN TIME WITH ONLY ME HAHA |
 | 03017878789 | daily dose of crack |
-| 03018026820 | \__** Discord Tel Information**__<br><br>*In order to start a call use this prefix command >call [Discord Tel Number]*<br><br>__**Directory**__<br>*J.E.  Brown Middle School ~ 03028026800*<br>*Dr.Stanford Office( Brown Middle School) ~ 03026984453*<br>*S&S Lavish Clubhouse ~ 03016984453*<br>*S&S Lavish Owner Office ~ 03018026820*<br>*S&S Lavish Co-Owner Office ~ 03018026822*<br>*S&S Lavish Security Office ~ 03018026824*<br><br>__**NOTE:**__<br>**>Pickup ~** Pick up the call<br>**>Transfer ~**Transfer the call*<br>**>Hangup ~**Hangup the Call* |
+| 03018026820 | __** Discord Tel Information**__<br><br>*In order to start a call use this prefix command >call [Discord Tel Number]*<br><br>__**Directory**__<br>*J.E.  Brown Middle School ~ 03028026800*<br>*Dr.Stanford Office( Brown Middle School) ~ 03026984453*<br>*S&S Lavish Clubhouse ~ 03016984453*<br>*S&S Lavish Owner Office ~ 03018026820*<br>*S&S Lavish Co-Owner Office ~ 03018026822*<br>*S&S Lavish Security Office ~ 03018026824*<br><br>__**NOTE:**__<br>>Pickup ~ Pick up the call<br>>Transfer ~Transfer the call<br>>Hangup ~Hangup the Call |
 | 03018026822 | p!purge 100 |
 | 03018026824 | p!purge 100 |
 | 03018076121 | Hey there! I'm using discord lol |
@@ -301,7 +301,7 @@ I really need to get to the point faster |
 | 03033329876 | Egg Discord Server WARNING: WE ARE CRAZY |
 | 03033336969 | our phone number |
 | 03033833527 | Dude Labs - Our mission is to explore the possibilities of the active Discord bots, including DiscordTel. |
-| 03033857912 | \**Gold & Silver Pawn Shop**<br><br>I'm Rick Harrison, and __this__ is my pawn shop. I work here with my old man Mitchell and my son, Big Armythix. Everything in here has a story... and a price. |
+| 03033857912 | **Gold & Silver Pawn Shop**<br><br>I'm Rick Harrison, and __this__ is my pawn shop. I work here with my old man Mitchell and my son, Big Armythix. Everything in here has a story... and a price. |
 | 03034206966 | h |
 | 03034454565 | 2 |
 | 03034563636 | Do >rdial |
@@ -382,7 +382,7 @@ I really need to get to the point faster |
 | 03043849897 | Stans with taste |
 | 03043942493 | burger king lol |
 | 03044207869 | dick in quac |
-| 03044444000 | Thank you for calling the telephone exchange. Our primary exchange can be called via DiscordTel at \`03044444000`, or more information can be found in the phonebook by dialling `>*411`, pressing `1`, and inputting our number to view our query.<br><br>The telephone exchange is an independent body dedicated to streamlining communications and is not affiliated with DiscordTel or Discord. |
+| 03044444000 | Thank you for calling the telephone exchange. Our primary exchange can be called via DiscordTel at `03044444000`, or more information can be found in the phonebook by dialling `>*411`, pressing `1`, and inputting our number to view our query.<br><br>The telephone exchange is an independent body dedicated to streamlining communications and is not affiliated with DiscordTel or Discord. |
 | 03044455567 | Idk |
 | 03045079008 | This is the notDoom Tech Support. If you have any issues with the game or the bot or just wanna talk call us. |
 | 03045384429 | slashfangz1 good number |
@@ -390,7 +390,7 @@ I really need to get to the point faster |
 | 03045478164 | 03045487965 |
 | 03045552148 | Customer service line for The Party House club. If you need a place to chill with your homies in an rule-free server, call us up. |
 | 03045554444 | We like metal, we also like gears. |
-| 03045632790 | ski[ |
+| 03045632790 | ski\[ |
 | 03045685332 | 03045685332 is this server's phone number |
 | 03046185585 | The Freezeria! Order your sundae, people! |
 | 03046667773 | 03037776667 |
@@ -455,8 +455,7 @@ I really need to get to the point faster |
 | 09004266244 | Funny, kind, cool |
 | 09004321123 | Hello. |
 | 09004346844 | idiot (that's me) |
-| 09004671000 | Want to personally speak with me? 
-Call this number and I'll answer when I can. |
+| 09004671000 | Want to personally speak with me? <br>Call this number and I'll answer when I can. |
 | 09004738567 | Lol call if you want XD |
 | 09004786757 | yes |
 | 09005195209 | Private |
