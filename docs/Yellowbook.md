@@ -1,4 +1,4 @@
-This is a list of numbers on `*411` yellowbook as of 21:27:54 15/01/2020 CEST, ordered by its number. Any entry that has a DTel command as a description is removed. Some entries have been edited to preserve page format. This list is for information only and may not be updated in the future. For up-to-date information, do `>dial *411` then `1`. (Privacy: The up-to-date yellowbook can be accessed by any user having a valid DiscordTel number, and also this list is meaningless for people not using the bot. If you insist on removing your entry immediately from this page, call `*611`.)
+This is a list of numbers on `*411` yellowbook as of 21:27:54 15/01/2020 CEST, ordered by its number. Any entry that has a DTel command as a description is removed. Some entries have been edited to fulfill moral requirements and preserve page format. This list is for information only and may not be updated in the future. For up-to-date information, do `>dial *411` then `1`. (Privacy: The up-to-date yellowbook can be accessed by any user having a valid DiscordTel number, and also this list is meaningless for people not using the bot. If you insist on removing your entry immediately from this page, call `*611`.)
 
 | Number      | Description |
 | ----------- | --- |
@@ -35,7 +35,6 @@ This is a list of numbers on `*411` yellowbook as of 21:27:54 15/01/2020 CEST, o
 | 03012137732 | Dupa |
 | 03012204376 | We like to eat pie. Call us today! |
 | 03012320125 | Hi I have no idea to put here |
-| 03012345696 | Thicc nibba inc we only serve the thiccest of nibbas |
 | 03012348915 | ok boomer ok boomer skskskskkssk save the turtles |
 | 03012353231 | The server of Beleaf in Yourself! An art server for all forms of creativity. |
 | 03012433683 | BotDev Official Number |
@@ -75,7 +74,6 @@ This is a list of numbers on `*411` yellowbook as of 21:27:54 15/01/2020 CEST, o
 | 03014056666 | It's a coolio number yo, we the best and the owner is bby |
 | 03014086530 | Pokéville - the official Discord server for Pokebert, admin of the Flipnoter’s Haven, Squat the Planet, /r/Runaway and more. Chat me anytime. |
 | 03014109989 | Holy Temple Of Jesus Christ Roblox Church |
-| 03014136141 | We're Delta airlines, and life is a f\*cking nightmare~ |
 | 03014137788 | The home of a lovely aggron in his mountain |
 | 03014140841 | wow step 1 done |
 | 03014204206 | erotic roleplay server |
@@ -141,9 +139,6 @@ This is a list of numbers on `*411` yellowbook as of 21:27:54 15/01/2020 CEST, o
 | 03016942096 | Hello this is Korea’s number. As you can clearly see, my phone number is a sex position, then the date hitler was born, then 69 back words :))))())(;)) |
 | 03016952482 | Owl bit squad!!!!!!!! |
 | 03016964222 | Just a bunch of dudes and one chick trynna make sense of life |
-| 03016969129 | you just fukcing talk idfk |
-| 03016969696 | gay gay gay gay gay gay gay gay |
-| 03016996783 | hi rat, you are not funny and you actually smell so i suggest you go back to the sewers where you belong (((: |
 | 03016999999 | yeehaw |
 | 03017001236 | Papa John’s Pizza. Give us a call. Special is two large pizzas for $8. |
 | 03017232166 | please call we're lonely |
@@ -176,9 +171,7 @@ This is a list of numbers on `*411` yellowbook as of 21:27:54 15/01/2020 CEST, o
 | 03018606449 | The sever name servers phone |
 | 03018673927 | The War on Vore |
 | 03018674743 | Iris's number I might pick up might not idk |
-| 03018686429 | This number kinda gay tho |
 | 03018734567 | Library of Code sp-us |
-| 03018742942 | hello ur gay now |
 | 03018764567 | I'm just a loner in a testing server |
 | 03018821244 | youre guys call friend never called back |
 | 03018884422 | a |
@@ -191,7 +184,6 @@ This is a list of numbers on `*411` yellowbook as of 21:27:54 15/01/2020 CEST, o
 | 03019274829 | Loneeelieeenessss! |
 | 03019283741 | can u stop? |
 | 03019327016 | scoopski |
-| 03019586539 | call this if u gay |
 | 03019628194 | M-O |
 | 03019691127 | Luna's cell used to nom ppl |
 | 03019871234 | A number to the server of sneks. Be a danger noodle. |
@@ -206,7 +198,6 @@ This is a list of numbers on `*411` yellowbook as of 21:27:54 15/01/2020 CEST, o
 | 03020000404 | This phone number is smudged with ink, but you can make out the digits anyways. Who knows who's on the other end of the line? |
 | 03020219374 | it's where you can ask for roles |
 | 03020987654 | am looking  for true love. call 03020987654 and ask for roger.... |
-| 03021011337 | send me furry yiff |
 | 03021029384 | This is the idiot hotline, please leave a message |
 | 03021225201 | bat ako |
 | 03021234093 | Hey! This number is linked to a testing server. Call me with questions or someone to chat to. |
@@ -214,7 +205,6 @@ This is a list of numbers on `*411` yellowbook as of 21:27:54 15/01/2020 CEST, o
 I really need to get to the point faster |
 | 03021337455 | Yes, it's "leet ass" in hacker text. Anyway this is Darth Potato's number. I support democratic socialism and any comrades that wish to join the union may do so at discord.gg/Vdyk4ms. |
 | 03021337699 | Brazilian Cuck Boys |
-| 03021479253 | Loli Database - For all your loli needs |
 | 03021531776 | A Closer Look |
 | 03022018000 | Hello! This is Vixitron Housings Limited. We are a discord server based over housings on the minigame Housing on Hypixel server, in Minecraft! Call us; we will answer if we can, obviously. |
 | 03022169598 | some guys server |
@@ -269,7 +259,6 @@ I really need to get to the point faster |
 | 03029931234 | 1 |
 | 03030000777 | Bloxx Air is a growing airline group on ROBLOX. We are looking for new members. Call us if you have any questions! |
 | 03030066600 | Hell |
-| 03030073666 | big gay |
 | 03030303015 | Numéro du SAMU |
 | 03030303016 | Numéro de la DIR |
 | 03030303017 | Numéro de la Police/Gendarmerie |
@@ -289,12 +278,9 @@ I really need to get to the point faster |
 | 03031298714 | living room |
 | 03031337042 | t-navf |
 | 03031337690 | The Weed Warriors |
-| 03031488666 | just your average nazi hotline |
-| 03031754864 | Ahaaaa,your gay (: |
 | 03031859715 | Bot Chanel |
 | 03031938192 | Ne plac cartofii |
 | 03032345677 | Place to just chat with someone! |
-| 03032618351 | urmomgay |
 | 03033062342 | Random server |
 | 03033283907 | u a bitch |
 | 03033329876 | Egg Discord Server WARNING: WE ARE CRAZY |
@@ -304,7 +290,6 @@ I really need to get to the point faster |
 | 03034206966 | h |
 | 03034454565 | 2 |
 | 03034563636 | Do >rdial |
-| 03034634863 | WE BEIN DEPORTED NOW 😦 😦 😦 😦 #RFL WE CUMMING UP ON THE YT 😦 😦 |
 | 03034958788 | Flub Club Phone Line |
 | 03035383800 | Its a roleplay boy |
 | 03035393773 | Bureau d'Armythix. |
@@ -314,7 +299,6 @@ I really need to get to the point faster |
 | 03036018827 | This is Diamond, how may I help you? |
 | 03036297582 | some loser’s number lol |
 | 03036539987 | Adverting Hub's Discord |
-| 03036541728 | Fucking |
 | 03036666660 | Hey. Kyler here. I'm always bored and don't mind friends. |
 | 03036724049 | A random line |
 | 03036969420 | The Grid - home of the Tronmcster |
@@ -331,7 +315,6 @@ I really need to get to the point faster |
 | 03037728908 | her bedroom |
 | 03037728909 | our bedroom |
 | 03037728910 | camis house number |
-| 03037864437 | idk what this shit is but ok |
 | 03038324787 | This is technical support! Call us for technical support. |
 | 03038372943 | crazy people |
 | 03038574932 | 0303 8193856 |
@@ -365,7 +348,6 @@ I really need to get to the point faster |
 | 03043141984 | Well, it's a number. Call it, bet. |
 | 03043212345 | I'm a memer 🆒 Please call me I'm lonely 🤠 |
 | 03043245756 | Dialup phone |
-| 03043430495 | i eat rat monkey |
 | 03043534268 | Conversa |
 | 03043756323 | real boi |
 | 03043756364 | legit |
@@ -394,14 +376,13 @@ I really need to get to the point faster |
 | 03046185585 | The Freezeria! Order your sundae, people! |
 | 03046667773 | 03037776667 |
 | 03046669117 | Lax's number |
-| 03046744264 | You've reached \**Prisneyland**: the Prison Break server. Give us a call on our yard free-phone to speak to a con.<br><br>Alternatively, go do a crime and come straight to us: https://discord.gg/eeW62bk |
+| 03046744264 | You've reached **Prisneyland**: the Prison Break server. Give us a call on our yard free-phone to speak to a con.<br><br>Alternatively, go do a crime and come straight to us: https://discord.gg/eeW62bk |
 | 03046758749 | \~grab |
 | 03046789123 | 0 |
 | 03046967378 | owo |
 | 03047405323 | the haza police |
 | 03047459860 | epioc |
 | 03047576646 | 😦 |
-| 03047618881 | Gay |
 | 03047684576 | legit |
 | 03047685475 | legit |
 | 03047737993 | Im bov |
@@ -420,7 +401,6 @@ I really need to get to the point faster |
 | 03049990000 | Im cool! |
 | 03049991120 | Policia Federal |
 | 08002536301 | Blend Cafe (Roleplay Cafe on Discord) |
-| 08006113835 | Fuckin 6111 lalaaad |
 | 09000000069 | The personal number of Slov, the priest of That'ssomethingism. |
 | 09000000131 | DTel bosses' number. I DARE U CALL THIS |
 | 09000012012 | MasterKingSirPlease's Private Number |
@@ -450,7 +430,6 @@ I really need to get to the point faster |
 | 09003467218 | toxi's dms |
 | 09003778726 | Cool Guy From Germany |
 | 09004046660 | MonsterSpike's Line! |
-| 09004206969 | Faggot |
 | 09004266244 | Funny, kind, cool |
 | 09004321123 | Hello. |
 | 09004346844 | idiot (that's me) |
@@ -458,7 +437,7 @@ I really need to get to the point faster |
 | 09004738567 | Lol call if you want XD |
 | 09004786757 | yes |
 | 09005195209 | Private |
-| 09005326873 | 🏢 \**Keanu73** - *Owner* of **DiscordTel** 🏢 |
+| 09005326873 | 🏢 **Keanu73** - *Owner* of **DiscordTel** 🏢 |
 | 09005454541 | Soro |
 | 09005563986 | SSG3's Local DM Number |
 | 09005598898 | Colin’s private number |
@@ -467,7 +446,6 @@ I really need to get to the point faster |
 | 09006611111 | Skyler#9999's phone do not call. |
 | 09006833501 | J Rose High Main Server Communications |
 | 09006942053 | I'm Sulfrix! |
-| 09006942069 | Gay |
 | 09006969420 | dont call |
 | 09006969777 | my name is jeff |
 | 09007268742 | SA-MU-RAI! unnamedauthor's personal DM number. Please be nice :) |
@@ -483,7 +461,6 @@ I really need to get to the point faster |
 | 09008434263 | hi! you’ve reached \$1\$1The Game\$1\$1. |
 | 09008684545 | Testing to see how badly I ruined >wizard :) |
 | 09008820192 | Chill Boys online |
-| 09009120004 | i am a fucking retard |
 | 09009181873 | Hello I am Landyn J and I like to play Minecraft, if you have any redstone inquiries, call me. |
 | 09009342120 | ziad87#3990's mobile |
 | 09009374752 | Hi. Please call me  0900zephpla |
