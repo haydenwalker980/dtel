@@ -1,4 +1,4 @@
-This is a list of numbers on `*411` yellowbook as of 21:27:54 15/01/2020 CEST, ordered by its number. Any entry that has a DTel command as a description is removed. This list is for information only and may not be updated in the future. For up-to-date information, do `>dial *411` then `1`.
+This is a list of numbers on `*411` yellowbook as of 21:27:54 15/01/2020 CEST, ordered by its number. Any entry that has a DTel command as a description is removed. Some entries have been edited to preserve page format. This list is for information only and may not be updated in the future. For up-to-date information, do `>dial *411` then `1`.
 
 | Number      | Description |
 | ----------- | --- |
@@ -12,7 +12,6 @@ This is a list of numbers on `*411` yellowbook as of 21:27:54 15/01/2020 CEST, o
 | 03010987656 | I am juju the ghost aka juju from rabbit |
 | 03011016035 | Hello, come call! |
 | 03011017203 | call the dumb trans kids alliance :) do not bully me i couldn't come up with anything else |
-| 03011090123 | ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhioeroiwerhihrhrhehelpmejoinmyserverplsokbyeuifefuhuehherhhuihgrughelrgheruichuienhreihuiertheruitherteryeuoitrioeuiio |
 | 03011133221 | Jelly's number (official) |
 | 03011231232 | 03011234567 CaveRush Server Phones |
 | 03011234543 | O C T O P U S.    F A C T S. |
@@ -463,7 +462,7 @@ I really need to get to the point faster |
 | 09005454541 | Soro |
 | 09005563986 | SSG3's Local DM Number |
 | 09005598898 | Colin’s private number |
-| 09005677655 | ski[ |
+| 09005677655 | ski\[ |
 | 09005681381 | Luca Wild's Personal Cell |
 | 09006611111 | Skyler#9999's phone do not call. |
 | 09006833501 | J Rose High Main Server Communications |
