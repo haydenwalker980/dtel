@@ -27,6 +27,8 @@ You can vote for us on bot listings. For each vote, you will get 10 credits.
 
 Votes to bots.onDiscord.xyz will not be counted as they don't have an API for votes.
 
+**LIMITED TIME OFFER!!!** The user with the highest number of votes given to us in a week will receive 1 month of [VIP](./VIP%20Number/) for free! See [support server](https://discord.gg/RN7pxrB) for details. Ends February 2nd, 2020.
+
 ### I'm a developer and I want DiscordTel to accept payments from my bot!
 DiscordTel no longer set up individual integrations. Please consider [integrating with Discoin](http://discoin.gitbook.io/).
 
