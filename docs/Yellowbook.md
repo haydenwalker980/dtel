@@ -1,4 +1,4 @@
-This is a list of numbers on `*411` yellowbook as of 21:27:54 15/01/2020 CEST, ordered by its number. Any entry that has a DTel command as a description is removed. Some entries have been edited to preserve page format. This list is for information only and may not be updated in the future. For up-to-date information, do `>dial *411` then `1`.
+This is a list of numbers on `*411` yellowbook as of 21:27:54 15/01/2020 CEST, ordered by its number. Any entry that has a DTel command as a description is removed. Some entries have been edited to preserve page format. This list is for information only and may not be updated in the future. For up-to-date information, do `>dial *411` then `1`. (Privacy: The up-to-date yellowbook can be accessed by any user having a valid DiscordTel number, and also this list is meaningless for people not using the bot. If you insist on removing your entry immediately from this page, call `*611`.)
 
 | Number      | Description |
 | ----------- | --- |
