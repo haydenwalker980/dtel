@@ -71,7 +71,6 @@ This is a list of numbers on `*411` yellowbook as of 00:07:36 16/01/2020 CEST, o
 | 03017637637 | The Infected Cult |
 | 03017667626 | how does this even work |
 | 03017667668 | HELP ME PLEASE OH GOD WBY IS THIS HAPPENING TO ME |
-| 03017877969 | grilled boob tastes like magical heaven. its milky and creamy on the inside with the balance of female hormones. i crave it every night. it has a thin grilled skin on the outside, not charred, but not undercooked. dont freeze it!! you can only eat it off the grill! burning your tongue while doing so enhances the sexually delicious milky consistancy. |
 | 03017878785 | THIS IS A FUN TIME WITH ONLY ME HAHA |
 | 03017878789 | daily dose of crack |
 | 03018076121 | Hey there! I'm using discord lol |
