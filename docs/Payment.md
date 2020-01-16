@@ -1,17 +1,23 @@
 # How do I keep my number running?
+All DiscordTel numbers has a monthly cost of 500 credits. You may renew in 2 ways:
+
+* **Automatic**: 500 credits will be deducted every month from the account of the number's owner (Server owner or DM user) on the day of the expiry.
+* **Manual**: Type `>dial *233` in the channel that has DTel service enabled, then type the amount of months you want to renew for. It costs 500 credits to extend a number by a month.
 
 ## Check your balance
 You can use `>balance` in any channel, even the channel doesn't have DTel service enabled. The server must have DTel added, though.
 
 ## Earn some balance
 ### Transfer from Discoin system
-Credits earned from [Discoin](http://discoin.sidetrip.xyz)-participating bots can be transferred to DiscordTel. See [here](https://discoin.gitbook.io/docs/users-guide) for commands and more details. DiscordTel's currency code is `DTS`.
+Credits earned from [Discoin](https://discoin.gitbook.io)-participating bots can be transferred to DiscordTel. See [here](https://discoin.gitbook.io/docs/users-guide) for commands and more details. DiscordTel's currency code is `DTS`. Note that exchange rates are dynamic, so check current rates [here](https://dash.discoin.zws.im/#/currencies).
+
+Should you have questions, please call Discoin Association at (0301) 347-2646 [0301-DISCOIN].
 
 ### Daily
 You can type `>daily` every day to get 80 credits.
 
 ### Lottery
-You can type `>lottery <Number of entries>` to enter the lottery. The draw is at EDT/EST 00:00 AM everyday. Each entry cost 5 credits and the money goes into the jackpot.
+You can type `>lottery <Number of entries>` to enter the lottery. Each entry cost 5 credits and the money goes into the jackpot.
 
 ### Voting for us on listings
 You can vote for us on bot listings. For each vote, you will get 10 credits.
@@ -45,10 +51,3 @@ Please include your username + discriminator, and whether the donation is for cr
 * PayPal fees, if applicable, are deducted from the donation.
 * Other payment methods (Robux, gift cards, cryptocurrencies, etc.) other than card/PayPal are available at a case-by-case basis. Please call `*611`.
 * Credits are no longer sold.
-
-## Using your balance
-### Renew your number
-Type `>dial *233` in the channel that has DTel service enabled, then type the amount of months you want to renew for. It costs 500 credits to extend a number by a month.
-
-### Send text messages to another number
-Each `>message` use costs you 2 credits.
