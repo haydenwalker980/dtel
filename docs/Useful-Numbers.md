@@ -4,10 +4,11 @@ We have listed some useful numbers that may help you out or may be fun. Please *
 ## Emergency
 Use the Customer Service `*611` for any problem you have with DiscordTel.
 
-## (Roleplay) Restaurants
-* Discord Donuts: (0800) 336-6887 [0800-D-DONUTS] for services, (0301) 456-1234 for other inquiries
+<!-- ## (Roleplay) Restaurants -->
+
+## Services
+* Discoin: (0301) 347-2646 [0301-DISCOIN]
 
 ## Server & Bot Listings
-* discordbots.uk: (0800) 420-4209
-* Pandora List: (0301) 726-3672 [0301-PANDORA]
+* Pandora List: (0800) 726-3672 [0800-PANDORA] for services, (0301) 726-3672 for public phone
 * Server Central: (0301) 236-8725 [0301-CENTRAL]
