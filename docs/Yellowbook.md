@@ -77,8 +77,6 @@ This is a list of numbers on `*411` yellowbook as of 00:07:36 16/01/2020 CEST, o
 | 03018434263 | hello! you have reached ‘the game’. |
 | 03018478354 | THS Interfare Head server |
 | 03018483729 | This is totally our description |
-| 03018686429 | This number kinda gay tho |
-| 03018742942 | hello ur gay now |
 | 03018821244 | youre guys call friend never called back |
 | 03019095290 | Call me for hot talk ❤️ |
 | 03019110217 | Epic gamer moment |
@@ -109,5 +107,4 @@ This is a list of numbers on `*411` yellowbook as of 00:07:36 16/01/2020 CEST, o
 | 09008434263 | hi! you’ve reached \$1\$1The Game\$1\$1. |
 | 09008684545 | Testing to see how badly I ruined >wizard :) |
 | 09008820192 | Chill Boys online |
-| 09009120004 | i am a fucking retard |
 | 09009374752 | Hi. Please call me  0900zephpla |
