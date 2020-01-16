@@ -12,12 +12,7 @@ All numbers are 11-digits. e.g. `0301XXXXXXX`. You can dial numbers using letter
 Discord servers with 500+ members that provide a service may be eligible for `0800`/`0844` prefixes. Contact `The Double-Eyed Bus#6889` in the support server.
 
 ## 3. Running the wizard
-`>wizard`
-
-Run this command in the channel you chose earlier.
-
-The bot will send a message like this (will be similar, not the same): 
-![registernumber](http://i.imgur.com/zMKAkPr.png)
+Run `>wizard` in the channel you chose earlier.
 
 If you want a mobile number (prefix `0900`), run `>wizard` in a DM (Direct Message) with the DTel bot.
 
@@ -40,7 +35,10 @@ Once someone leaves a message, you will receive a message, and to read the messa
 To delete the message, you can type `>mailbox messages [ID] delete`. In the case above, the ID is 6dd7.
 You can also call the person that left the message! For that type `>mailbox messages [ID] callback`.
 
-## 5. Confirmation
+## 5. Put yourself on the Yellowbook
+`>dial *411` then press `2`. Put a meaningful description after the prompt. Now people will reach you through `>rdial`!
+
+## 6. Confirmation
 Congratulations! You set up your number. The bot should send a message like this:
 ![message](http://i.imgur.com/vuOzp4d.png)
 
