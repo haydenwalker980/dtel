@@ -41,8 +41,9 @@ To delete the message, you can type `>mailbox messages [ID] delete`. In the case
 You can also call the person that left the message! For that type `>mailbox messages [ID] callback`.
 
 ## 5. Confirmation
-Congratulations! You set up your number.
-The bot should send a message like this:
+Congratulations! You set up your number. The bot should send a message like this:
 ![message](http://i.imgur.com/vuOzp4d.png)
 
-Read the [Payment](http://discordtel.readthedocs.io/en/latest/Payment/) section for information about how to keep your number alive.
+**Now you can [call people](./dialing-guide)!**
+
+Read the [Payment](./Payment) section for information about how to keep your number alive.
