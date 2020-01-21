@@ -28,9 +28,10 @@ You can vote for us on bot listings. For each vote, you will get 10 credits.
 | [Bots for Discord](https://botsfordiscord.com/bots/377609965554237453/vote) | Once every 24 hours |
 | [Discord Boats](https://discord.boats/bot/377609965554237453/vote) | Once every 12 hours |
 | [DiscordBotList.com](https://discordbotlist.com/bots/377609965554237453/upvote) | Once every 24 hours |
-| [DiscordBots.org](https://discordbots.org/bot/377609965554237453/vote) | Once every 12 hours, 20 credits per vote on weekends |
 | [DiscordBot.world](https://discordbot.world/bot/377609965554237453) | Once per lifetime per account |
 | [DivineDiscordBots.com](https://divinediscordbots.com/bot/377609965554237453/vote) | Once every 24 hours |
+| [Glenn Bot List](https://glennbotlist.xyz/bot/377609965554237453/vote) | Once every 12 hours |
+| [top.gg](https://top.gg/bot/377609965554237453/vote) | Once every 12 hours, 20 credits per vote on weekends |
 
 Votes to bots.onDiscord.xyz will not be counted as they don't have an API for votes.
 
