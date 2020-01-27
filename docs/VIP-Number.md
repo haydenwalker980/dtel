@@ -1,4 +1,4 @@
-#	VIP Number
+# VIP Number
 
 DiscordTel's VIP plan works with so called 'VIP Months'. By using `>upgrade` you can transfer the VIP Months from your account to a number.
 
@@ -6,9 +6,9 @@ Please note: benefits and price are subject to changes. These will be announced 
 
 ## Current rate
 3 US Dollar = 1 VIP Month<br/>
-You can find information on how to donate [here][paymentLink]
+You can find information on how to donate [here][paymentLink].
 
-##	Benefits
+## Benefits
 
 *	**Disable number recognition**<br/>
 	With a VIP number you have the ability to disable your number recognition.
@@ -23,6 +23,10 @@ You can find information on how to donate [here][paymentLink]
 	When requesting a number change (by dialing `*611`) won't get rid of all your messages, contacts, phonebook settings, vip settings, etc.<br/><br/>
 *	**Number expiry**<br/>
 	If your number would expire before the end of your VIP expiry, it will be extended to the same date as your VIP.
-	
+
+## Options
+You can find your newly enabled VIP options in the `*411` menu.<br/>
+_Note that only someone with the Manage Server permission can access these options_
+
 [paymentLink]: https://discordtel.austinhuang.me/en/latest/Payment/#donation
 [guildInvite]: https://discord.gg/qRVxY55
