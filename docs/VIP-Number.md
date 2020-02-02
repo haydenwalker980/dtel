@@ -5,8 +5,22 @@ DiscordTel's VIP plan works with so called 'VIP Months'. By using `>upgrade` you
 Please note: benefits and price are subject to changes. These will be announced in our [server][guildInvite].
 
 ## Current rate
-3 US Dollar = 1 VIP Month<br/>
-You can find information on how to donate [here][paymentLink].
+3 US Dollars or 3 Euros or 4 Canadian Dollars = 1 VIP month.
+
+You can donate to one of the three maintainers:
+
+* Austin (Bus): [https://austinhuang.me/donate](https://austinhuang.me/donate) (PayPal `austinhuang0131@gmail.com`) CAD preferred
+* Mitchell: [https://www.paypal.me/mdrademaker](https://www.paypal.me/mdrademaker) (PayPal `mdrademaker19@gmail.com`) EUR preferred
+* Rhys (Sun): PayPal `rhys0710@live.com`
+
+Please include your username + discriminator. If you forgot to do so, a copy of the email receipt is required for redemption. Note:
+
+* Must be purchased in increments of whole months.
+* PayPal fees, if applicable, are deducted from the donation.
+* Cryptocurrencies are accepted, see [here](https://austinhuang.me/donate) (bottom of page). USD value **at reception** will be considered.
+* Other payment methods (Robux, gift cards, etc.) other than card/PayPal are available at a case-by-case basis. Please call `*611`.
+* Credits are no longer sold.
+
 
 ## Benefits
 
