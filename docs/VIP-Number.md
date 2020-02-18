@@ -7,13 +7,16 @@ Please note: benefits and price are subject to changes. These will be announced 
 ## Current rate
 3 US Dollars or 3 Euros or 4 Canadian Dollars = 1 VIP month.
 
-You can donate to one of the three maintainers:
+If you wish to pay recursively (Credit / PayPal / SEPA), use our Liberapay: <script src="https://liberapay.com/DiscordTel/widgets/button.js"></script>
+<noscript><a href="https://liberapay.com/DiscordTel/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 
-* Austin (Bus): [https://austinhuang.me/donate](https://austinhuang.me/donate) (PayPal `austinhuang0131@gmail.com`) CAD preferred
+Otherwise, you can manually donate to one of the three maintainers:
+
+* Austin (Bus): [https://austinhuang.me/donate](https://austinhuang.me/donate) (PayPal / Interac e-Transfer `austinhuang0131@gmail.com`) CAD preferred
 * Mitchell: [https://www.paypal.me/mdrademaker](https://www.paypal.me/mdrademaker) (PayPal `mdrademaker19@gmail.com`) EUR preferred
 * Rhys (Sun): PayPal `rhys0710@live.com`
 
-Please include your username + discriminator. If you forgot to do so, a copy of the email receipt is required for redemption. Note:
+Please include your username + discriminator in the comment field. If you failed or were unable to do so, a copy of the email receipt is required for redemption. Note:
 
 * Must be purchased in increments of whole months.
 * PayPal fees, if applicable, are deducted from the donation.
