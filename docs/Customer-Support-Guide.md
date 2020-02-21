@@ -49,3 +49,12 @@ If a troll call occurs, warn the user and give them a strike (`>strike <user id>
 If you want to **un-blacklist** someone, run the blacklist command *again* with the same user ID.
 
 For a quick reference to decide what is trolling and what is not trolling, you may refer to the Wikipedia article on [Internet trolling](https://en.wikipedia.org/wiki/Internet_troll).
+
+## Backdooring
+Sometimes you may need extra proof for a troll call report. Or maybe you need to join a server to help a user out. In any case, you can use `>backdoor <number/channel id>` to get an invite.
+
+## Broadcasting
+If you're tying to help someone out or want to tell them something, and you can't/don't want to call someone + they dont have a mailbox set up, you can use `>broadcast <numbe/channel id> <message>` to send them a message. Only use this for CS purposes.
+
+## Busyness
+We use a system of a user being "busy" when they use certain comamnds to avoid conflicts. Usually a user becomes un-busy when the command is "done". However, sometimes a user gets stuck like this. You can run `>unbusy <user id/mention>` to free them up. If commands still don't work for them, contact a boss.
