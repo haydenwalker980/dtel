@@ -9,7 +9,7 @@ The **only way** to join the CS team is to fill out the [application form](https
 ## Assigning a number
 Usually, servers can get a number using `>wizard`. You may need to run `>assign <Channel_ID> <Number>` in these occasions:
 
-* Moving a number from a channel to another (unless the number is VIP, in which case use >reassign.) Run **after** de-assigning the original one. Remember to compensate for any paid months. If the number has expired, use >addcredit to charge any outstanding balance first (makse sure to specify that it's a negative amount of credits.)
+* Moving a number from a channel to another (unless the number is VIP, in which case use >reassign.) Run **after** de-assigning the original one. Remember to compensate for any paid months. If the number has expired, use >addcredit to charge any outstanding balance first (make sure to specify that it's a negative amount of credits.)
 * Getting more then 3 numbers (must get approval from boss.)
 * `0800` (manager approval required.) (Note: we're no longer selling them)
 
