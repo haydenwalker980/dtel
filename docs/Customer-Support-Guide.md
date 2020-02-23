@@ -4,12 +4,12 @@ Welcome to the Customer Support guide. This guide contains info about the comman
 If you have any questions about commands that are **not** mentioned here, you may ask about it in a staff channel on DTel's HQ. Staff commands should **only** be used in either the staff channel or in direct messaging with the bot.
 
 ## How do I become Customer Support?
-The **only way** to join the CS team is to fill out the [application form](https://discordtel.typeform.com/to/jJayAt). Your application will put into the pool, but will only be looked at once a spot opens. The maximum amount of team members is currently **the integer closest to (server count / 100)** (Excluding Manager or higher). It may take **weeks or months ~~or years~~** for your application to be read. **Asking a staff member to read your application will result in an AUTOMATIC DENIAL.** During your wait, you should stay in the DTel HQ. Failure to remain in the server until your application is read will result in an automatic denial.
+The **only way** to join the CS team is to fill out the [application form](https://discordtel.typeform.com/to/jJayAt). Your application will put into the pool, but will only be looked at once a spot opens. The maximum amount of team members is currently **the number closest to (server count / 100)** (excluding Manager or higher). It may take **weeks or months ~~or years~~** for your application to be read. **Asking a staff member to read your application will result in an AUTOMATIC DENIAL.** During your wait, you should stay in the DTel HQ. Failure to remain in the server until your application is read will result in an automatic denial.
 
 ## Assigning a number
 Usually, servers can get a number using `>wizard`. You may need to run `>assign <Channel_ID> <Number>` in these occasions:
 
-* Moving a number from a channel to another (unless the number is VIP, in which case use >reassign.) Run **after** de-assigning the original one. Remember to compensate for any paid months. If the number has expired, use >addcredit to charge any outstanding balance first (make sure to specify that it's a negative amount of credits.)
+* Moving a number from a channel to another (unless the number is VIP, in which case use >reassign.) Run **after** de-assigning the original one. Remember to compensate for any paid months. If the number has expired, use >addcredit to charge any outstanding balance first (makse sure to specify that it's a negative amount of credits.)
 * Getting more then 3 numbers (must get approval from boss.)
 * `0800` (manager approval required.) (Note: we're no longer selling them)
 
@@ -45,17 +45,17 @@ Please ask a boss. The command is >addcredit, but you ***must*** consult a boss.
 If a troll call occurs, warn the user and give them a strike (`>strike <user id> <reason>`.) The user will automatically be blacklisted after 3 strikes. If the bot failed to blacklist the user (if the bot doesn't say "They have been blacklisted." in the embed footer in response to your 3rd strike), or if the offense is severe enough you may directly blacklist the user (`>blacklist <user id>`.)
 
 (You can get the user ID from #bot-logs (it's at the end of the line):
-![User ID](http://i.imgur.com/ntxEwAA.png) or by enabling Discord's Developer Mode and right clicking/tapping on a user's profile and slecting "Copy ID".)
+![User ID](http://i.imgur.com/ntxEwAA.png) or by enabling Discord's Developer Mode and right clicking/tapping on the user's profile and selecting "Copy ID".)
 
 If you want to **un-blacklist** someone, run the blacklist command *again* with the same user ID.
 
-For a quick reference to decide what is trolling and what is not trolling, you may refer to the Wikipedia article on [Internet trolling](https://en.wikipedia.org/wiki/Internet_troll).
+For a quick reference to help you decide what is and what isn't trolling, you may refer to the Wikipedia article on [Internet trolling](https://en.wikipedia.org/wiki/Internet_troll).
 
 ## Backdooring
 Sometimes you may need extra proof for a troll call report. Or maybe you need to join a server to help a user out. In any case, you can use `>backdoor <number/channel id>` to get an invite.
 
 ## Broadcasting
-If you're tying to help someone out or want to tell them something, and you can't/don't want to call someone + they dont have a mailbox set up, you can use `>broadcast <numbe/channel id> <message>` to send them a message. Only use this for CS purposes.
+If you're trying to help someone out or want to tell them something, and you can't/don't want to call someone + they dont have a mailbox set up, you can use `>broadcast <numbe/channel id> <message>` to send them a message. Only use this for CS purposes.
 
 ## Busyness
-We use a system of a user being "busy" when they use certain commands to avoid conflicts. Usually a user becomes un-busy when the command is "done". However, sometimes a user gets stuck like this. You can run `>unbusy <user id/mention>` to free them up. If commands still don't work for them, contact a boss.
+We use a system of a user being "busy" when they use certain commands to avoid conflicts. Usually a user becomes un-busy when the command is "done". However, sometimes a user gets stuck in the busy state. You can run `>unbusy <user id/mention>` to free them up. If commands still don't work for them, contact a boss.
