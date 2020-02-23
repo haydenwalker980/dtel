@@ -4,14 +4,14 @@ Welcome to the Customer Support guide. This guide contains info about the comman
 If you have any questions about commands that are **not** mentioned here, you may ask about it in a staff channel on DTel's HQ. Staff commands should **only** be used in either the staff channel or in direct messaging with the bot.
 
 ## How do I become Customer Support?
-The **only way** to join the CS team is to fill out the [application form](https://discordtel.typeform.com/to/jJayAt). Your application will put into the pool, but will only be looked at once a spot opens. The maximum amount of team members is currently **the number closest to (server count / 100)** (excluding Manager or higher). It may take **weeks or months ~~or years~~** for your application to be read. **Asking a staff member to read your application will result in an AUTOMATIC DENIAL.** During your wait, you should stay in the DTel HQ. Failure to remain in the server until your application is read will result in an automatic denial.
+The **only way** to join the CS team is to fill out the [application form](https://discordtel.typeform.com/to/jJayAt). Your application will put into the pool, but will only be looked at once a spot opens. The maximum amount of team members is currently **the number closest to (server count / 100)** (excluding supervisor or higher). It may take **weeks or months ~~or years~~** for your application to be read. **Asking a staff member to read your application will result in an AUTOMATIC DENIAL.** During your wait, you should stay in the DTel HQ. Failure to remain in the server until your application is read will result in an automatic denial.
 
 ## Assigning a number
 Usually, servers can get a number using `>wizard`. You may need to run `>assign <Channel_ID> <Number>` in these occasions:
 
 * Moving a number from a channel to another (unless the number is VIP, in which case use >reassign.) Run **after** de-assigning the original one. Remember to compensate for any paid months. If the number has expired, use >addcredit to charge any outstanding balance first (make sure to specify that it's a negative amount of credits.)
 * Getting more then 3 numbers (must get approval from boss.)
-* `0800` (manager approval required.) (Note: we're no longer selling them)
+* `0800` (supervisor approval required.) (Note: we're no longer selling them)
 
 ## Deassigning a number
 `>deassign <Number>`. Use this command only if:
@@ -20,7 +20,7 @@ Usually, servers can get a number using `>wizard`. You may need to run `>assign 
 * The number has been mistakenly assigned;
 * The owner requests for removal of their number (make sure to use `>permcheck <caller's discord ID>`);
 * The users of this number abuse the system; (blacklist their server/members first)
-* The owner of the number wants it moved to another channel (make sure you have the channel ID they want it moved to, and also transfer the months they paid for by refunding the credits (# months x500))
+* The owner of the number wants it moved to another channel (make sure you have the channel ID they want it moved to, and also transfer the months they paid for by refunding the credits (# months x 500))
 
 ## Info about things
 We currently have info commands for:
