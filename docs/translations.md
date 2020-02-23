@@ -6,7 +6,7 @@ Therefore we are working on full translations.
 
 ## We need your help
 Without the help of our community (you) we can't make these translations happen.  
-You can start translating by visiting our [gitlocalize][gitlocalize] page.
+You can start translating by visiting our [gitlocalize][gitlocalize] page (read the guide below first).
 
 See the badges below for the current progress.  
 If you want to request a different language, join our [support server][serverlink] and ask Bus or Mitchell to add it.
