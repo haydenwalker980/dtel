@@ -26,7 +26,7 @@ Usually, servers can get a number using `>wizard`. You may need to run `>assign 
 We currently have info commands for:
 
 * users (`>uinfo <user id/mention>`)
-* numbers (`>ninfo <number>`),
+* numbers (`>ninfo <number>`)
 * calls (`>cinfo <call id, see #bot-log>`)
 * and mailbox messages (`>minfo <number/channel of the mailbox> <message id, run >mailbox to get it>`).
 
@@ -58,4 +58,4 @@ Sometimes you may need extra proof for a troll call report. Or maybe you need to
 If you're tying to help someone out or want to tell them something, and you can't/don't want to call someone + they dont have a mailbox set up, you can use `>broadcast <numbe/channel id> <message>` to send them a message. Only use this for CS purposes.
 
 ## Busyness
-We use a system of a user being "busy" when they use certain comamnds to avoid conflicts. Usually a user becomes un-busy when the command is "done". However, sometimes a user gets stuck like this. You can run `>unbusy <user id/mention>` to free them up. If commands still don't work for them, contact a boss.
+We use a system of a user being "busy" when they use certain commands to avoid conflicts. Usually a user becomes un-busy when the command is "done". However, sometimes a user gets stuck like this. You can run `>unbusy <user id/mention>` to free them up. If commands still don't work for them, contact a boss.
