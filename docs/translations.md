@@ -1,3 +1,5 @@
+**NOTE: translations are currently being used in our beta-version. All progress may be lost/altered later on.**
+
 # Translations
 DiscordTel should be accessible for everyone wanting to use it.  
 Therefore we are working on full translations.
