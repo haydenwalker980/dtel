@@ -2,16 +2,15 @@
 
 Translations
 ============
-
-DiscordTel should be accessible for everyone wanting to use it.  
+DiscordTel should be accessible for everyone wanting to use it. 
 Therefore we are working on full translations.
 
 We need your help
 -----------------
-Without the help of our community (you) we can't make these translations happen.  
+Without the help of our community (you) we can't make these translations happen. 
 You can start translating by visiting our `Git Localize`_ page (read the guide below first).
 
-See the badges below for the current progress.  
+See the badges below for the current progress. 
 If you want to request a different language, join our `Support Server`_ and ask Bus or Mitchell to add it.
 
 Translating guide
@@ -23,7 +22,6 @@ Translating guide
   As commands are currently not translated, please keep references to commands in English.
 
 |gitlocalizedBadge| |french| |german| |dutch|
-
 
 .. _Git Localize: https://gitlocalize.com/repo/3993
 .. _Support Server: https://discord.gg/DcayXMc
