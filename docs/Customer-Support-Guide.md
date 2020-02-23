@@ -24,6 +24,7 @@ Usually, servers can get a number using `>wizard`. You may need to run `>assign 
 
 ## Info about things
 We currently have info commands for:
+
 * users (`>uinfo <user id/mention>`)
 * numbers (`>ninfo <number>`),
 * calls (`>cinfo <call id, see #bot-log>`)
