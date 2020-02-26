@@ -23,7 +23,7 @@ module.exports = async msg => {
 	// Fix messages
 	msg.content = msg.content.replace(/^[\n‌]+$/igm, "").replace(/\s{5,}/m, "     ").replace(/^ +| +$/, "");
 	const account = await msg.author.account(),
-		prefix = msg.content.startsWith(client.user) ? `${client.user} ` : account.prefix || config.prefix;
+		prefix = msg.content.startsWith(client.user) ? `${client.user} ` : msg.content.startsWith(account.prefix) ? account.prefix : config.prefix;
 
 	// Extends unextended channels
 	if (msg.channel.number === undefined) {
@@ -42,7 +42,7 @@ module.exports = async msg => {
 	if ((!call && !msg.content.startsWith(prefix)) || (msg.author.busy && !msg.author.maintainer)) return;
 
 	// Filter out the command and arguments to pass
-	let cmd = msg.content.split(" ")[0].trim().replace(prefix, "").toLowerCase()
+	let cmd = msg.content.split(" ")[0].trim().toLowerCase().replace(prefix, "")
 		.replace(/dial/gi, "call");
 	if (aliases.aliasCommands[cmd]) cmd = aliases.aliasCommands[cmd];
 	const suffix = msg.content.split(" ").splice(1)
