@@ -42,7 +42,7 @@ module.exports = async msg => {
 	if ((!call && !msg.content.startsWith(prefix)) || (msg.author.busy && !msg.author.maintainer)) return;
 
 	// Filter out the command and arguments to pass
-	let cmd = msg.content.split(" ")[0].trim().toLowerCase().replace(prefix, "")
+	let cmd = msg.content.split(" ")[0].trim().replace(prefix, "").toLowerCase()
 		.replace(/dial/gi, "call");
 	if (aliases.aliasCommands[cmd]) cmd = aliases.aliasCommands[cmd];
 	const suffix = msg.content.split(" ").splice(1)
