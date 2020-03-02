@@ -1,5 +1,5 @@
 # Customer Support Guide
-Welcome to the Customer Support guide. This guide contains info about the commands that you (presuimg that you're CS) can use. **Your actions are recorded in #bot-log.**
+Welcome to the Customer Support guide. This guide contains info about the commands that you (presuming that you're CS) can use. **Your actions are recorded in #bot-log.**
 
 If you have any questions about commands that are **not** mentioned here, you may ask about it in a staff channel on DTel's HQ. Staff commands should **only** be used in either the staff channel or in direct messaging with the bot.
 
