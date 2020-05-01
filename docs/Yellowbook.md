@@ -254,9 +254,7 @@ This is a list of numbers on `*411` yellowbook as of 00:22:00 May 1st, 2020 CEST
 03017288637 | 0301GHETTO0RATA
 03018005882 | Some random server (TOTALLY not a scammer)
 09000012012 | MasterKingSirPlease's Private Number
-09000123456 | I will always answer! 
-I am GMT time.
-You can join my group that currently has 300+ and more! 🙂
+09000123456 | I will always answer! I am GMT time. You can join my group that currently has 300+ and more! 🙂
 03017864245 | Well call me if you're a scp fan or something fricken nerd.
 03016612695 | Super Cool Server XD
 03017673764 | hello guys call us
