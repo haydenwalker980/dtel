@@ -31,8 +31,7 @@ This is a list of numbers on `*411` yellowbook as of 00:22:00 May 1st, 2020 CEST
 03011239081 | the android fan club
 03012160565 | G.O.G Official Discord Server’s number! We will sell steam keys on the phone!
 03011103787 | oh uhm eat ass i mean i dont know what to put here
-03010566604 | Hola! ¿Que taaaal? ¡Hablamos español!, Seguramente llames porque estas aburrido, ¡Y por que no! 
-(Deja tu mensaje si no te respondemos)
+03010566604 | Hola! ¿Que taaaal? ¡Hablamos español!, Seguramente llames porque estas aburrido, ¡Y por que no! (Deja tu mensaje si no te respondemos)
 03010987654 | Server for the G+ members
 03011989019 | Oblivia server.
 03011234045 | 𝕎𝕖'𝕣𝕖 𝔼𝕕𝕘𝕪 𝔹𝕦𝕥 𝔽𝕣𝕖𝕒𝕜 𝕀𝕥 ℂ𝕒𝕝𝕝 𝕌𝕤.
