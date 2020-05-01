@@ -11,7 +11,7 @@ You can use `>balance` in any channel, even the channel doesn't have DTel servic
 ### Transfer from Discoin system
 Credits earned from [Discoin](https://discoin.gitbook.io)-participating bots can be transferred to DTel. See [here](https://discoin.gitbook.io/docs/users-guide) for commands and more details. DTel's currency code is `DTS` (which stands for **D**iscord **T**elephone **S**ystem, our previous full name). Note that exchange rates are dynamic, so check current rates [here](https://dash.discoin.zws.im/#/currencies).
 
-Should you have questions, please call Discoin Association at (0301) 347-2646 [0301-DISCOIN].
+Should you have questions, please call Discoin Association at (0800) 347-2646 [0800-DISCOIN].
 
 ### Daily
 You can type `>daily` every day to get 80 credits.
