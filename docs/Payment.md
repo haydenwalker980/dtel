@@ -1,5 +1,5 @@
 # How do I keep my number running?
-All DiscordTel numbers has a monthly cost of 500 credits. You may renew in 2 ways:
+All DTel numbers has a monthly cost of 500 credits. You may renew in 2 ways:
 
 * **Automatic**: 500 credits will be deducted every month from the account of the number's owner (Server owner or DM user) on the day of the expiry.
 * **Manual**: Type `>dial *233` in the channel that has DTel service enabled, then type the amount of months you want to renew for. It costs 500 credits to extend a number by a month.
@@ -9,7 +9,7 @@ You can use `>balance` in any channel, even the channel doesn't have DTel servic
 
 ## Earn some balance
 ### Transfer from Discoin system
-Credits earned from [Discoin](https://discoin.gitbook.io)-participating bots can be transferred to DiscordTel. See [here](https://discoin.gitbook.io/docs/users-guide) for commands and more details. DiscordTel's currency code is `DTS`. Note that exchange rates are dynamic, so check current rates [here](https://dash.discoin.zws.im/#/currencies).
+Credits earned from [Discoin](https://discoin.gitbook.io)-participating bots can be transferred to DTel. See [here](https://discoin.gitbook.io/docs/users-guide) for commands and more details. DTel's currency code is `DTS` (which stands for **D**iscord **T**elephone **S**ystem, our previous full name). Note that exchange rates are dynamic, so check current rates [here](https://dash.discoin.zws.im/#/currencies).
 
 Should you have questions, please call Discoin Association at (0301) 347-2646 [0301-DISCOIN].
 
@@ -38,5 +38,5 @@ Votes to bots.onDiscord.xyz will not be counted as they don't have an API for vo
 
 The user with the highest number of votes given to us in a week will receive 1 month of [VIP](./VIP%20Number/) for free! See [support server](https://discord.gg/RN7pxrB) for details.
 
-### I'm a developer and I want DiscordTel to accept payments from my bot!
-DiscordTel no longer set up individual integrations. Please consider [integrating with Discoin](http://discoin.gitbook.io/).
+### I'm a developer and I want DTel to accept payments from my bot!
+DTel no longer set up individual integrations. Please consider [integrating with Discoin](http://discoin.gitbook.io/).
