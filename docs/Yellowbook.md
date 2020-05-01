@@ -3,7 +3,7 @@ This is a list of numbers on `*411` yellowbook as of 00:22:00 May 1st, 2020 CEST
 | Number      | Description |
 | ----------- | --- |
 03010203040 | Get a random Vaporwave or chill-wave song off me, or just talk if wanted, I'm available from 2PM - 11PM EST
-03010011037 | The In Character Hotline for your needs. Dial for some stupid shit.
+03010011037 | The In Character Hotline for your needs. Dial for some stupid s\*\*\*.
 03010100100 | JET: Send message if you do not get answer.
 03010420069 | call me I’m lonely :(
 03010002137 | Woda ziemia halucynacja
@@ -44,14 +44,12 @@ This is a list of numbers on `*411` yellowbook as of 00:22:00 May 1st, 2020 CEST
 03011001312 | <@!650634957647249408>
 03012140223 | Prune airways! call us.
 03011337420 | uwu owo uwu owo
-03011103729 | a gay fuckers phone UwU
 03011488420 | This is a server where ethnic Albanians reside.
 03012828600 | Alpha Hotel Support - Roleplay
 03011234678 | call some fat niggas
 03011860429 | Arianna accept my rq!!!
 03011017203 | call the dumb trans kids alliance :) do not bully me i couldn't come up with anything else
 03012836437 | Young Avengers HQ
-03011420666 | We r from hell n we r gay
 03012222223 | This is phantom forces
 03012685263 | The Official Customer Support of BOT Land. (Phone number 0301-268-5263)
 03013434343 | Heck hello there
@@ -90,7 +88,6 @@ This is a list of numbers on `*411` yellowbook as of 00:22:00 May 1st, 2020 CEST
 03012345678 | Head of state phone
 03012749389 | This is Discord's roleplay mall. We deliver!
 03013451235 | The bot general zone for bots
-03014296969 | It is very gay
 03013102367 | Call if you need any help with anything in the server!
 03014269690 | epic gamer number
 03013749575 | Foreign Bhaddiez
@@ -206,7 +203,6 @@ This is a list of numbers on `*411` yellowbook as of 00:22:00 May 1st, 2020 CEST
 03018488437 | titty titty titty titty
 03018443710 | help desk for Shoe Box Film Crew
 03016999999 | yeehaw
-03016906214 | call this number or ur server gay
 03015577575 | The Friends coffee with Tony
 03016123943 | 𝓑𝓸𝓽✞𝓖𝓪𝓷𝓰
 03015678467 | Telephone channel
@@ -292,7 +288,6 @@ You can join my group that currently has 300+ and more! 🙂
 09004346844 | idiot (that's me)
 03018765433 | Bonjour je suis Juju et j'ai pas d'amis donc appelez moi
 03016745895 | Escritório do Monarca Saudita, Palácio de Riade.
-03019473521 | Call for a good time ;) jk jk bro that's gay
 03017667668 | HELP ME PLEASE OH GOD WBY IS THIS HAPPENING TO ME
 03019852041 | Dollhouse Dance Factory | Head Coach Office
 09005005828 | My DM, I play Minecraft and program things. You can call me from 14 to 20 hours GMT +1 and I will probably respond
@@ -345,7 +340,6 @@ You can join my group that currently has 300+ and more! 🙂
 09007877678 | HI. If you need some support, please ring us. We are free to help.
 09002225463 | jojo's dm number
 09003273193 | aviaqfire's number
-03018686429 | This number kinda gay tho
 09008434263 | hi! you’ve reached \$1\$1The Game\$1\$1.
 09007550822 | DarkGamess I'm somebody called like that.
 09003734125 | Número pessoal de Eredin E. P. IV, criador e fundador dos Laboratórios Eredin
