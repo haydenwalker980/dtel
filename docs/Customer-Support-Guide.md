@@ -4,7 +4,7 @@ Welcome to the Customer Support guide. This guide contains info about the comman
 If you have any questions about commands that are **not** mentioned here, you may ask about it in a staff channel on DTel's HQ. Staff commands should **only** be used in either the staff channel or in direct messaging with the bot.
 
 ## How do I become Customer Support?
-The **only way** to join the CS team is to fill out the [application form](https://discordtel.typeform.com/to/jJayAt). Your application will put into the pool, but will only be looked at once a spot opens. The maximum amount of team members is currently **the number closest to (server count / 100)** (excluding supervisor or higher). It may take **weeks or months ~~or years~~** for your application to be read. **Asking a staff member to read your application will result in an AUTOMATIC DENIAL.** During your wait, you should stay in the DTel HQ. Failure to remain in the server until your application is read will result in an automatic denial.
+The **only way** to join the CS team is to fill out the [application form](https://dtel.typeform.com/to/jJayAt). Your application will put into the pool, but will only be looked at once a spot opens. The maximum amount of team members is currently **the number closest to (server count / 100)** (excluding supervisor or higher). It may take **weeks or months ~~or years~~** for your application to be read. **Asking a staff member to read your application will result in an AUTOMATIC DENIAL.** During your wait, you should stay in the DTel HQ. Failure to remain in the server until your application is read will result in an automatic denial.
 
 ## Assigning a number
 Usually, servers can get a number using `>wizard`. You may need to run `>assign <Channel_ID> <Number>` in these occasions:
@@ -37,7 +37,7 @@ Please ask a boss. The command is >addcredit, but you ***must*** consult a boss.
 *Sometimes* people can be annoying and just trying to have fun. That is the case with troll calls.
 **These** are the cases of **what are** and **what are NOT** troll calls:
 
-* People calling and talking about something irrelevant to DiscordTel - Troll Call
+* People calling and talking about something irrelevant to DTel - Troll Call
 * A person calls 611 but does not understand what it is/does - NOT a Troll Call, inform them then hang up
 * Caller begins to say impolite/vulgar things to or about you - Troll Call
 * Caller who is reporting a troller - NOT a Troll Call
