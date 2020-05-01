@@ -1,3 +1,5 @@
+(Screenshots still say "DiscordTel", they may change in the near future)
+
 # Setup guide
 This guide will assist newcomers in setting up DTel for their server!
 
