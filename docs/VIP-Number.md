@@ -1,14 +1,14 @@
 # VIP Number
 
-DiscordTel's VIP plan works with so called 'VIP Months'. By using `>upgrade` you can transfer the VIP Months from your account to a number.
+DTel's VIP plan works with so called 'VIP Months'. By using `>upgrade` you can transfer the VIP Months from your account to a number.
 
 Please note: benefits and price are subject to changes. These will be announced in our [server][guildInvite].
 
 ## Current rate
 3 US Dollars or 3 Euros or 4 Canadian Dollars = 1 VIP month.
 
-If you wish to pay recursively (Credit / PayPal / SEPA), use our Liberapay: <script src="https://liberapay.com/DiscordTel/widgets/button.js"></script>
-<noscript><a href="https://liberapay.com/DiscordTel/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+If you wish to pay recursively (Credit / PayPal / SEPA), use our Liberapay: <script src="https://liberapay.com/DTel/widgets/button.js"></script>
+<noscript><a href="https://liberapay.com/DTel/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 
 Otherwise, you can manually donate to one of the three maintainers:
 
@@ -45,5 +45,4 @@ Please include your username + discriminator in the comment field. If you failed
 You can find your newly enabled VIP options in the `*411` menu.<br/>
 _Note that only someone with the Manage Server permission can access these options_
 
-[paymentLink]: https://discordtel.austinhuang.me/en/latest/Payment/#donation
 [guildInvite]: https://discord.gg/qRVxY55
