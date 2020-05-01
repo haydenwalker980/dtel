@@ -4,7 +4,7 @@ Welcome to the Customer Support guide. This guide contains info about the comman
 If you have any questions about commands that are **not** mentioned here, you may ask about it in a staff channel on DTel's HQ. Staff commands should **only** be used in either the staff channel or in direct messaging with the bot.
 
 ## How do I become Customer Support?
-The **only way** to join the CS team is to fill out the [application form](https://dtel.typeform.com/to/jJayAt). Your application will put into the pool, but will only be looked at once a spot opens. The maximum amount of team members is currently **the number closest to (server count / 100)** (excluding supervisor or higher). It may take **weeks or months ~~or years~~** for your application to be read. **Asking a staff member to read your application will result in an AUTOMATIC DENIAL.** During your wait, you should stay in the DTel HQ. Failure to remain in the server until your application is read will result in an automatic denial.
+The **only way** to join the CS team is to fill out the [application form](https://dtel.typeform.com/to/wHjMpX). Your application will put into the pool, but will only be looked at once a spot opens. The maximum amount of team members is currently **the number closest to (server count / 100)** (excluding supervisor or higher). It may take **weeks or months ~~or years~~** for your application to be read. **Asking a staff member to read your application will result in an AUTOMATIC DENIAL.** During your wait, you should stay in the DTel HQ. Failure to remain in the server until your application is read will result in an automatic denial.
 
 ## Assigning a number
 Usually, servers can get a number using `>wizard`. You may need to run `>assign <Channel_ID> <Number>` in these occasions:
@@ -57,5 +57,5 @@ Sometimes you may need extra proof for a troll call report. Or maybe you need to
 ## Broadcasting
 If you're trying to help someone out or want to tell them something, and you can't/don't want to call someone + they dont have a mailbox set up, you can use `>broadcast <numbe/channel id> <message>` to send them a message. Only use this for CS purposes.
 
-## Busyness
+## Busy-ness
 We use a system of a user being "busy" when they use certain commands to avoid conflicts. Usually a user becomes un-busy when the command is "done". However, sometimes a user gets stuck in the busy state. You can run `>unbusy <user id/mention>` to free them up. If commands still don't work for them, contact a boss.
