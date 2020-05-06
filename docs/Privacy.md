@@ -1,4 +1,4 @@
-![form](https://cdn.discordapp.com/attachments/377854783001853953/705572671907168306/unknown.png)
+![form](https://cdn.discordapp.com/attachments/377854783001853953/707450182912180315/sketch-1588739653961.png)
 
 The same data is also stored on #bot-log of the [Support server](https://discord.gg/RN7pxrB), except certain call-related info of [VIP](./VIP-Number) numbers.
 
