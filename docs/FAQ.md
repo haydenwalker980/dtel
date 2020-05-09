@@ -1,14 +1,14 @@
 # FAQ
 If this page does not answer your question, feel free to `>dial *611` from any DTel number.
 
-* [Basics](#Basics)
-* [Advanced](#Advanced)
-* [Trivia](#Trivia)
+* [Basics](#basics)
+* [Advanced](#advanced)
+* [Trivia](#trivia)
 
 ## Basics
-* [Setup](#Setup)
-* [Call commands](#What-commands-can-I-use-during-a-call)
-* [Renewal](#How-do-I-keep-my-number-alive)
+* [Setup](#setup)
+* [Call commands](#what-commands-can-i-use-during-a-call)
+* [Renewal](#how-do-i-keep-my-number-alive)
 
 ### Setup
 #### How do I get a number?
@@ -47,16 +47,16 @@ DTel will charge in-bot credits to make sure all numbers are being actively used
 To learn about how to get credits, see [here](./Payment). For each number, the bot will automatically try to deduct 500 credits from the *server owner's* account, within 24 hours *before* the number expires. If successful, the bot will renew the number for another month, otherwise a warning will be sent.
 
 ## Advanced
-* [Messaging](#Messaging)
-* [Blocking numbers](#How-do-I-stop-some-number-from-calling-us)
-* [Removing your number](#How-do-I-remove-my-number)
+* [Messaging](#messaging)
+* [Blocking numbers](#how-do-i-stop-some-number-from-calling-me)
+* [Removing your number](#how-do-i-remove-my-number)
 
 ### Messaging
 You can leave a message to any mailbox-enabled number by using `>message <number> <message>`. A message costs 2 credits each.
 
 To enable mailbox, or open/manage messages, `>mailbox`.
 
-### How do I stop some number from calling us?
+### How do I stop some number from calling me?
 `>block <number>`
 
 If the number is abusing, please report it by `>dial *611`.
