@@ -20,7 +20,7 @@ You can type `>daily` every day to get 80 credits.
 You can type `>lottery <Number of entries>` to enter the lottery. Each entry cost 5 credits and the money goes into the jackpot.
 
 ### Voting for us on listings
-You can vote for us on bot listings. For each vote, you will get 10 credits.
+You can vote for us on the following bot listings. For each vote, you will get 10 credits, unless otherwise specified.
 
 | Site | Note |
 | :--: | :--: |
@@ -33,9 +33,4 @@ You can vote for us on bot listings. For each vote, you will get 10 credits.
 | [Glenn Bot List](https://glennbotlist.xyz/bot/377609965554237453/vote) | Once every 12 hours |
 | [top.gg](https://top.gg/bot/377609965554237453/vote) | Once every 12 hours, 20 credits per vote on weekends |
 
-Votes to bots.onDiscord.xyz will not be counted as they don't have an API for votes.
-
 The user with the highest number of votes given to us in a week will receive 1 month of [VIP](./VIP%20Number/) for free! See [support server](https://discord.gg/RN7pxrB) for details.
-
-### I'm a developer and I want DTel to accept payments from my bot!
-DTel no longer set up individual integrations. Please consider [integrating with Discoin](http://discoin.gitbook.io/).
