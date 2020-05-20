@@ -13,3 +13,6 @@ If you’d like to ask a question, you may `>dial *611`, [join our support serve
 
 ## License
 The [Github repo with the source code](https://github.com/austinhuang0131/dtel) can be found here, mainly for reviewing purposes. Rehosting this bot privately under Austin Huang's permission is allowed. Read the license [here](https://github.com/austinhuang0131/dtel/blob/master/LICENSE).
+
+<script data-goatcounter="https://dtel.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
