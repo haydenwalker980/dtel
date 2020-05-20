@@ -1,14 +1,14 @@
 **NOTE: translations are currently being used in our beta-version. All progress may be lost/altered later on.**
 
 # Translations
-DTel should be accessible for everyone wanting to use it. 
+DTel should be accessible for everyone wanting to use it.
 Therefore we are working on full translations.
 
 ## We need your help
-Without the help of our community (you) we can't make these translations happen. 
+Without the help of our community (you) we can't make these translations happen.
 You can start translating by visiting our [Git Localize][Git Localize] page (read the guide below first).
 
-See the badges below for the current progress. 
+See the badges below for the current progress.
 If you want to request a different language, join our [Support Server][Support Server] and ask Bus or Mitchell to add it.
 
 ## Translating guide
@@ -26,3 +26,6 @@ If you want to request a different language, join our [Support Server][Support S
 [french]: https://gitlocalize.com/repo/3993/fr/badge.svg
 [german]: https://gitlocalize.com/repo/3993/de/badge.svg
 [dutch]: https://gitlocalize.com/repo/3993/nl/badge.svg
+
+<script data-goatcounter="https://dtel.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

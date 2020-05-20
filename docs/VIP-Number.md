@@ -46,3 +46,6 @@ You can find your newly enabled VIP options in the `*411` menu.<br/>
 _Note that only someone with the Manage Server permission can access these options_
 
 [guildInvite]: https://discord.gg/qRVxY55
+
+<script data-goatcounter="https://dtel.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

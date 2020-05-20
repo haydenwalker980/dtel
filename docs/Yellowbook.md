@@ -353,3 +353,6 @@ This is a list of numbers on `*411` yellowbook as of 00:22:00 May 1st, 2020 CEST
 09002160565 | This is the G.O.G. Official discord server’s owner’s mobile number! Only contact for emergencies and to claim/buy keys!
 09005827501 | A number to Reassembly!
 09009145958 | SOYAL#1300 number
+
+<script data-goatcounter="https://dtel.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

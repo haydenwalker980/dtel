@@ -5,3 +5,6 @@ The same data is also stored on #bot-log of the [Support server](https://discord
 In addition, should you have a number in your server, any Customer Support member can summon an invite and join your server whenever we deem necessary. If you believe such action is not justified, please email `dtel@austinhuang.me`. It will be dealt with on a case-by-case basis.
 
 The data is stored on a server owned by SunburntRock89#6617.
+
+<script data-goatcounter="https://dtel.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

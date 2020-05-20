@@ -59,3 +59,6 @@ If you're trying to help someone out or want to tell them something, and you can
 
 ## Busy-ness
 We use a system of a user being "busy" when they use certain commands to avoid conflicts. Usually a user becomes un-busy when the command is "done". However, sometimes a user gets stuck in the busy state. You can run `>unbusy <user id/mention>` to free them up. If commands still don't work for them, contact a boss.
+
+<script data-goatcounter="https://dtel.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

@@ -80,7 +80,7 @@ Why not?
 * Roleplays are proven to be a cash cow for online platforms - refer to Roblox. (In reality, it didn't earn *that* much, but at least it *earns* without, say, paywalling like Mee6.)
 
 ### Why is it called DTel?
-Because apparently we can't name it DiscordTel (which, by the way, was the bot's previous name prior to verification), otherwise we can't get it verifed by 
+Because apparently we can't name it DiscordTel (which, by the way, was the bot's previous name prior to verification), otherwise we can't get it verifed by
 Discord.
 
 ### Why are the numbers formatted like that?
@@ -89,3 +89,6 @@ Discord.
 * `0800`: Server numbers that are assigned for servers that provide a service. These are manually assigned by Bosses.
 
 DTel numbers generally follow [the UK style](https://en.wikipedia.org/wiki/Telephone_numbers_in_the_United_Kingdom#Three-digit_area_codes) (4-digit prefix, 7-digit number), although special numbers (like `*611` being [support](https://en.wikipedia.org/wiki/6-1-1), `*411` being [directory](https://en.wikipedia.org/wiki/4-1-1), and `*233` = `*ADD` being [refill](https://www.t-mobile.com/support/plans-features/self-service-short-codes#thirdheading)) follow the North American style.
+
+<script data-goatcounter="https://dtel.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
