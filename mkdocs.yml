@@ -4,3 +4,5 @@ repo_url: https://github.com/austinhuang0131/dtel
 edit_uri: blob/readthedocs/docs/
 theme:
   name: readthedocs
+markdown_extensions:
+  - meta
