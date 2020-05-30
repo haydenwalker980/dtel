@@ -1,6 +1,6 @@
 ---
 title: DTel, a Discord telephone roleplay bot
-description: DTel is a realistic telephone roleplay bot that lets you call other servers! Invite today!
+summary: DTel is a realistic telephone roleplay bot that lets you call other servers! Invite today!
 ---
 
 # DTel, a Discord telephone roleplay bot
