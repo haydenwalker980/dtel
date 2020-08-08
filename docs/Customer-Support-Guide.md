@@ -26,6 +26,7 @@ Used when someone requests their number to be removed. (make sure to use `>permc
 | 21-31 days | 450     |
 | 11-20 days | 300     |
 | 1-10 days  | 150     |
+
 First **remove one month**, which they got for free, from the remaining time!
 
 ## How to get more information
