@@ -1,10 +1,11 @@
+# Customer Support
+## How do I become Customer Support?
+The **only way** to join the CS team is to fill out the [application form](https://dtel.typeform.com/to/wHjMpX). Your application will put into the pool, but will only be looked at once a spot opens. The maximum amount of team members is currently **the number closest to (server count / 100)** (excluding supervisor or higher). It may take **weeks or months ~~or years~~** for your application to be read. **Asking a staff member to read your application will result in an AUTOMATIC DENIAL.** During your wait, you should stay in the DTel HQ. Failure to remain in the server until your application is read will result in an automatic denial.
+
 # Guide
 Welcome to the Customer Support guide. This guide contains info about some of the commands that (presuming that you're CS) you can use. Check `>cshelp` for all the commands at your disposal. **Your actions are recorded in #bot-log.**
 
 If you have any questions about commands that are **not** mentioned here, you may ask about it in a staff channel in DTel's HQ. Staff commands should **only** be used in either the staff channel or in DMs with the bot.
-
-## How do I become Customer Support?
-The **only way** to join the CS team is to fill out the [application form](https://dtel.typeform.com/to/wHjMpX). Your application will put into the pool, but will only be looked at once a spot opens. The maximum amount of team members is currently **the number closest to (server count / 100)** (excluding supervisor or higher). It may take **weeks or months ~~or years~~** for your application to be read. **Asking a staff member to read your application will result in an AUTOMATIC DENIAL.** During your wait, you should stay in the DTel HQ. Failure to remain in the server until your application is read will result in an automatic denial.
 
 ## Dealing with \*611 calls
 This section only details the general conduct expected from members of our support team, the tools at your disposal are explained below.
@@ -43,7 +44,7 @@ Please ask a boss. The command is >addcredit, but you ***must*** consult a boss.
 
 ## Dealing with *611 troll calls (or any kind of abuse)
 *Sometimes* people can be annoying and are just trying to have fun. That is the case with troll calls.
-The follwoing explains **what is** and **what is NOT** a troll call:
+The following explains **what is** and **what is NOT** a troll call:
 
 * People calling and talking about something irrelevant to DTel - Troll Call
 * A person calls 611 but does not understand what it is/does - NOT a Troll Call, inform them then hang up
