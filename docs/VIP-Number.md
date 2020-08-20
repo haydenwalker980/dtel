@@ -14,7 +14,7 @@ Otherwise, you can manually donate to one of the three maintainers:
 
 * Austin (Bus): [https://austinhuang.me/donate](https://austinhuang.me/donate) (PayPal / Interac e-Transfer `austinhuang0131@gmail.com`) - CAD preferred
 * Mitchell: [https://www.paypal.me/mdrademaker](https://www.paypal.me/mdrademaker) (PayPal `mdrademaker19@gmail.com`) - EUR preferred
-* Rhys (Sun): PayPal `rhys0710@live.com`
+* Rhys (Sun): PayPal `rhys0710@live.com` - GBP preferred 
 
 (TIP: If you donate to Austin via [**Github Sponsors**](https://github.com/sponsors/austinhuang0131) (the $3 tier specifically) your donation is doubled by Github for free. Two VIP months for the price of one!)
 Please include your username + discriminator in the comment field. If you do not, a copy of your email receipt is required for redemption. Note:
