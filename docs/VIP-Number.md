@@ -12,16 +12,17 @@ If you wish to pay recursively (Credit / PayPal / SEPA), use our Liberapay: <scr
 
 Otherwise, you can manually donate to one of the three maintainers:
 
-* Austin (Bus): [https://austinhuang.me/donate](https://austinhuang.me/donate) (PayPal / Interac e-Transfer `austinhuang0131@gmail.com`) CAD preferred
-* Mitchell: [https://www.paypal.me/mdrademaker](https://www.paypal.me/mdrademaker) (PayPal `mdrademaker19@gmail.com`) EUR preferred
+* Austin (Bus): [https://austinhuang.me/donate](https://austinhuang.me/donate) (PayPal / Interac e-Transfer `austinhuang0131@gmail.com`) - CAD preferred
+* Mitchell: [https://www.paypal.me/mdrademaker](https://www.paypal.me/mdrademaker) (PayPal `mdrademaker19@gmail.com`) - EUR preferred
 * Rhys (Sun): PayPal `rhys0710@live.com`
 
-Please include your username + discriminator in the comment field. If you failed or were unable to do so, a copy of the email receipt is required for redemption. Note:
+(TIP: If you donate to Austin via [**Github Sponsors**](https://github.com/sponsors/austinhuang0131) (the $3 tier specifically) your donation is doubled by Github for free. Two VIP months for the price of one!)
+Please include your username + discriminator in the comment field. If you do not, a copy of your email receipt is required for redemption. Note:
 
 * Must be purchased in increments of whole months.
 * PayPal fees, if applicable, are deducted from the donation.
 * Cryptocurrencies are accepted, see [here](https://austinhuang.me/donate) (bottom of page). USD value **at reception** will be considered.
-* Other payment methods (Robux, gift cards, etc.) other than card/PayPal are available at a case-by-case basis. Please call `*611`.
+* Other payment methods (Robux, gift cards, etc.) other than card/PayPal are available on a case-by-case basis. Please `>call *611`.
 * Credits are no longer sold.
 
 
@@ -43,7 +44,7 @@ Please include your username + discriminator in the comment field. If you failed
 
 ## Options
 You can find your newly enabled VIP options in the `*411` menu.<br/>
-_Note that only someone with the Manage Server permission can access these options_
+_Note that only someone with the Manage Server permission can access these options._
 
 [guildInvite]: https://discord.gg/qRVxY55
 
