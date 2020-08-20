@@ -1,21 +1,22 @@
 # Customer Support
 ## How do I become Customer Support?
-The **only way** to join the CS team is to fill out the [application form](https://dtel.typeform.com/to/wHjMpX). Your application will put into the pool, but will only be looked at once a spot opens. The maximum amount of team members is currently **the number closest to (server count / 100)** (excluding supervisor or higher). It may take **weeks or months ~~or years~~** for your application to be read. **Asking a staff member to read your application will result in an AUTOMATIC DENIAL.** During your wait, you should stay in the DTel HQ. Failure to remain in the server until your application is read will result in an automatic denial.
+The **only way** to join the CS team is to fill out the [**application form**](https://dtel.typeform.com/to/wHjMpX). Your application will put into the pool, but will only be looked at once a spot opens. The maximum amount of team members is currently **the number closest to (server count / 100)** (excluding supervisor or higher). It may take **weeks or months ~~or years~~** for your application to be read. **Asking a staff member to read your application will result in an AUTOMATIC DENIAL.** During your wait, you should stay in the DTel HQ. Failure to remain in the server until your application is read will result in an automatic denial.
 
 # Guide
-Welcome to the Customer Support guide. This guide contains info about some of the commands that (presuming that you're CS) you can use. Check `>cshelp` for all the commands at your disposal. **Your actions are recorded in #bot-log.**
+Welcome to the Customer Support guide. This guide contains info about some of the commands that (presuming you're CS) you can use. Check `>cshelp` for all the commands at your disposal. **Your actions are recorded in #bot-log.**
 
 If you have any questions about commands that are **not** mentioned here, you may ask about it in a staff channel in DTel's HQ. Staff commands should **only** be used in either the staff channel or in DMs with the bot.
 
 ## Dealing with \*611 calls
 This section only details the general conduct expected from members of our support team, the tools at your disposal are explained below.
+
 * The CS \[agent] who picked up the call is the only one allowed to speak, unless otherwise directed. You can put `>` before your message so the other side can't see.
 * Try to lead any conversation into a pleasant direction.
 * If you don't know the appropriate action, contact more experienced CS or a supervisor/boss and wait for their response.
 
 ## Deassigning a number
 `>deassign <Number>`.
-Used when someone requests their number to be removed. (make sure to use `>permcheck <caller's discord ID>`);
+Used when someone requests their number to be removed. Make sure to use `>permcheck <caller's user ID>` while in the call.
 
 ## Moving/changing a number
 * VIP numbers: you should use `>reassign <number/channel> <number/channel>` to change or move the number.
@@ -46,10 +47,10 @@ Please ask a boss. The command is >addcredit, but you ***must*** consult a boss.
 *Sometimes* people can be annoying and are just trying to have fun. That is the case with troll calls.
 The following explains **what is** and **what is NOT** a troll call:
 
-* People calling and talking about something irrelevant to DTel - Troll Call
-* A person calls 611 but does not understand what it is/does - NOT a Troll Call, inform them then hang up
-* Caller begins to say impolite/vulgar things to or about you - Troll Call
-* Caller who is reporting a troller - NOT a Troll Call
+* People calling and talking about something irrelevant to DTel - troll call
+* A person calls 611 but does not understand what it is/does or mistakes it for another special number (233/411) - NOT a troll call, inform them then hang up
+* Caller begins to say impolite/vulgar things to or about you - troll call
+* Caller who is reporting a troll - NOT a troll call
 
 If a troll call occurs, warn the user and give them a strike (`>strike <user id> <reason>`.) The user will automatically be blacklisted after 3 strikes. If the bot failed to blacklist the user (if the bot doesn't say "They have been blacklisted." in the embed footer in response to your 3rd strike), or if the offense is severe enough you may directly blacklist the user (`>blacklist <user id> <reason>`.)
 
