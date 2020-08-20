@@ -21,7 +21,7 @@ Please include your username + discriminator in the comment field. If you do not
 
 * Must be purchased in increments of whole months.
 * PayPal fees, if applicable, are deducted from the donation.
-* Cryptocurrencies are accepted, see [here](https://austinhuang.me/donate) (bottom of page). USD value **at reception** will be considered.
+* Cryptocurrencies are accepted; see [here](https://austinhuang.me/donate) (bottom of page). USD value **at reception** will be considered.
 * Other payment methods (Robux, gift cards, etc.) other than card/PayPal are available on a case-by-case basis. Please `>call *611`.
 * Credits are no longer sold.
 
@@ -29,18 +29,18 @@ Please include your username + discriminator in the comment field. If you do not
 ## Benefits
 
 *	**Disable number recognition**<br/>
-	With a VIP number you have the ability to disable your number recognition.
+	With a VIP number you have the ability to disable number recognition.
 	This means that the other side will be unable to see your number and usernames.
-	Details (**Note:** not all) will also be hidden from our public logs.<br/><br/>
+	Most details (*not all*) will also be hidden from our public logs.<br/><br/>
 *	**Custom name**<br/>
 	You may set a custom name for your number.
-	This name will show up besides your number (or instead of with number recognition disabled) when calling.<br/><br/>
+	This name will show up besides your number (instead of it with number recognition disabled) when calling.<br/><br/>
 *	**VIP Emote**<br/>
 	Your messages will display the VIP emote, instead of the default one.<br/><br/>
 *	**Changing your number**<br/>
-	When requesting a number change (by dialing `*611`) won't get rid of all your messages, contacts, phonebook settings, vip settings, etc.<br/><br/>
+	Requesting a number change (by dialing `*611`) won't get rid of all your messages, contacts, phonebook settings, VIP settings, etc.<br/><br/>
 *	**Number expiry**<br/>
-	If your number would expire before the end of your VIP expiry, it will be extended to the same date as your VIP.
+	If your number is set to expire before the end of your VIP month(s), it will be extended to the same date as your VIP expires.
 
 ## Options
 You can find your newly enabled VIP options in the `*411` menu.<br/>
