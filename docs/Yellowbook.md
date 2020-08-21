@@ -1,6 +1,6 @@
 This is the list of numbers on the yellowbook (`*411`) as of 00:22:00 May 1st, 2020 CEST, ordered by number. Any entry that has a DTel command as a description has been removed. Some entries have been edited to fulfill moral requirements and preserve the page format. This list is for information only and may not be updated in the future. For up-to-date information, `>dial *411` then select option `1`. 
 
-(Privacy: The up-to-date yellowbook can be accessed by any user with a valid DTel number, and this list is meaningless to people not using the bot. If you insist on having your entry removed from this page, `>call *611`.)
+(Privacy: The up-to-date yellowbook can be accessed by any user with a valid DTel number, and this list is meaningless to people not using the bot. If you insist on having your entry removed from this page, `>call *611`. To remove it from the yellowbook (not this page), `>call 411`.)
 
 | Number      | Description |
 | ----------- | --- |
